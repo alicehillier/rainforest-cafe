@@ -106,22 +106,22 @@ h3 {
 }
 
 .visit-box.first-box {
-    background: url('../images/visit-box-fruit.jpg') no-repeat center center;
+    background: url('../../images/visit-box-fruit.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .visit-box.second-box {
-    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
+    background: url('../../images/visit-box-cafe.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .visit-box.third-box {
-    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
+    background: url('../../images/visit-box-farm.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .visit-box.fourth-box {
-    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
+    background: url('../../images/visit-box-monkeys.jpg') no-repeat center center;
     background-size: cover;
 }
 
