@@ -49,3 +49,88 @@ nav a {
     color: #263A29;
     font-weight: 600;
 }
+
+h2 {
+    margin: 5rem auto;
+    text-align: center;
+    width: 25%;
+    background-color: #FFF8D6;
+    ;
+    border: 1px solid #263A29;
+    border-radius: 1rem;
+    color: #617A55;
+    padding: 2.25rem 0;
+    clear: both;
+}
+
+#welcome p {
+    width: 75%;
+    margin: 5rem auto;
+    background-color: #617A55;
+    color: #FFF8D6;
+    border: 1px solid #263A29;
+    ;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    padding: 2.25rem;
+    text-align: center;
+}
+
+.why-visit {
+    width: 100%;
+    margin: 5rem auto;
+    padding: 0 2.25rem;
+    column-count: 4;
+    box-sizing: border-box;
+}
+
+.visit-box {
+    height: 300px;
+    width: 100%;
+    background-color: #617A55;
+    margin: 0 auto;
+    border: 1px solid #263A29;
+    border-top: none;
+    box-sizing: border-box;
+}
+
+h3 {
+    padding: 2.25rem;
+    box-sizing: border-box;
+    text-align: center;
+    color: #FFF8D6;
+    border: 1px solid #263A29;
+    ;
+    border-radius: 1rem 1rem 0 0;
+    background-color: #617A55;
+}
+
+.visit-box.first-box {
+    background: url('../images/visit-box-fruit.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.visit-box.second-box {
+    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.visit-box.third-box {
+    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.visit-box.fourth-box {
+    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.box-text {
+    width: 100%;
+    margin: 0 auto;
+    padding: 2.25rem;
+    box-sizing: border-box;
+    border-radius: 0 0 1rem 1rem;
+    color: #FFF8D6;
+    text-align: center;
+}
