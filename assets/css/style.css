@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Open+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+
+header {
+    background-color: #fff;
+    height: 5rem;
+    border-bottom: 1px solid #263A29;
+}
+
+.logo,
+nav {
+    line-height: 5rem;
+}
+
+.logo {
+    float: left;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    color: #263A29;
+    border-right: 1px solid #263A29;
+}
+
+nav {
+    float: right;
+}
+
+nav li {
+    display: inline;
+    margin-right: 3rem;
+    list-style-type: none;
+    font-size: 1.25rem;
+}
+
+nav li:first-of-type {
+    margin-left: 3rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #263A29;
+    font-weight: 600;
+}
