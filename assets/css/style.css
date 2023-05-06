@@ -16,6 +16,7 @@ header {
     border-bottom: 1px solid #617A55;
     position: fixed;
     width: 100vw;
+    z-index:1;
 }
 
 .logo,
@@ -60,9 +61,24 @@ nav a:hover {
 .hero-image {
     background: url('../images/rainforest-cafe-hero-image.jpg') no-repeat center center;
     background-size: cover;
-    height: 500px;
+    height: 750px;
     width: 100%;
     margin-bottom: 4rem;
+    animation-name: hero-image-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for hero image */
+
+@keyframes hero-image-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
 }
 
 h2 {
@@ -180,15 +196,24 @@ h3 {
     margin: 0;
 }
 
-.section-link-h2 {
-    height: 100%;
-    line-height: 300px;
-    vertical-align: middle;
+.section-link-heading {
+    height:100%;
     box-sizing: border-box;
     background-color: white;
     color:#263A29;
     border-top: 1px solid #263A29;
     border-bottom: 1px solid #263A29;
+}
+
+.section-link h2 {
+    height:100%;
+    width:100%;
+    position: relative;
+    top:25%;
+    text-align: center;
+    transform: rotate(-15deg);
+    font-size:4rem;
+    text-transform: uppercase;
 }
 
 .section-link-image {
@@ -206,5 +231,10 @@ h3 {
 
 .section-image-2 {
     background: url('../images/pineapple-orange-background.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.section-image-3 {
+    background: url('../images/aubergines-purple-background.jpg') no-repeat center center;
     background-size: cover;
 }
