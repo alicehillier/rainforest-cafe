@@ -7,19 +7,21 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #263A29;
-    color: white;
+    background-color: #fff;
 }
 
 header {
     background-color: #263A29;
     height: 5rem;
     border-bottom: 1px solid #617A55;
+    position: fixed;
+    width: 100vw;
 }
 
 .logo,
 nav {
     line-height: 5rem;
+    color: white;
 }
 
 .logo {
@@ -56,7 +58,7 @@ nav a:hover {
 }
 
 .hero-image {
-    background: url('../../images/rainforest-cafe-hero-image.jpg') no-repeat center center;
+    background: url('../images/rainforest-cafe-hero-image.jpg') no-repeat center center;
     background-size: cover;
     height: 500px;
     width: 100%;
@@ -77,21 +79,32 @@ h2 {
     clear: both;
 }
 
+#welcome {
+    background-color: white;
+    color: #263A29;
+}
+
+#welcome h2 {
+    font-size: 4rem;
+}
+
 #welcome p {
     width: 75%;
     margin: 0 auto;
-    /* background-color: #617A55;
-    color: #FFF8D6;
-    border: 1px solid #263A29;
-    border-radius: 1rem; */
     box-sizing: border-box;
     padding: 2.25rem;
     text-align: center;
+    font-size: 2rem;
 }
 
 p {
     font-size: 1.15rem;
     font-weight: 500;
+}
+
+#visit {
+    background-color: rgb(255, 211, 130);
+    padding: 4rem;
 }
 
 .why-visit {
@@ -106,10 +119,15 @@ p {
     height: 300px;
     width: 100%;
     background-color: #617A55;
+    color: white;
     margin: 0 auto;
     border: 1px solid #263A29;
     border-top: none;
     box-sizing: border-box;
+}
+
+#visit h3 {
+    color: white;
 }
 
 h3 {
@@ -124,22 +142,22 @@ h3 {
 }
 
 .visit-box.first-box {
-    background: url('../../images/visit-box-fruit.jpg') no-repeat center center;
+    background: url('../images/visit-box-fruit.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .visit-box.second-box {
-    background: url('../../images/visit-box-cafe.jpg') no-repeat center center;
+    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .visit-box.third-box {
-    background: url('../../images/visit-box-farm.jpg') no-repeat center center;
+    background: url('../images/visit-box-farm.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .visit-box.fourth-box {
-    background: url('../../images/visit-box-monkeys.jpg') no-repeat center center;
+    background: url('../images/visit-box-monkeys.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -153,13 +171,51 @@ h3 {
 }
 
 #menu {
-    width: 80%;
     margin: 0 auto;
+    padding: 4rem;
+    background-color: blanchedalmond;
+}
+
+.appetisers,
+.entrees,
+.desserts,
+.drinks {
+    width: 50%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+#menu h3 {
+    background-color: #617A55;
+    color: #fff;
+}
+
+.entrees-heading,
+.desserts-heading,
+.drinks-heading {
+    border-radius: 0;
+}
+
+#menu ul {
+    background-color: white;
+    color: #263A29;
+    border-left: 1px solid #263A29;
+    border-right: 1px solid #263A29;
 }
 
 #menu li {
     padding: 1rem 2rem;
     list-style-type: none;
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+
+#menu li:first-of-type {
+    padding-top: 2rem;
+}
+
+#menu li:last-of-type {
+    padding-bottom: 2rem;
 }
 
 .menu-items {
@@ -169,21 +225,17 @@ h3 {
 
 .price {
     float: right;
-    font-size: 1rem;
+    font-size: 1.15rem;
+    font-weight: 600;
 }
 
 .add-ons {
-    column-count: 2;
     position: relative;
-    margin-left: 3rem;
-    margin-top: 0.25rem;
-    font-size: 1rem;
     list-style-type: none;
+    font-size: 0.8rem;
 }
 
-.add-ons-price {
-    text-align: end;
-    position: relative;
-    right: 3rem;
-    font-size: 1rem;
+.drinks ul {
+    border-radius: 0 0 1rem 1rem;
+    border-bottom: 1px solid #263A29;
 }
