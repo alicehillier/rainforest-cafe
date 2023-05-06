@@ -12,8 +12,7 @@ body {
 
 header {
     background-color: #263A29;
-    height: 5rem;
-    border-bottom: 1px solid #617A55;
+    height: 6rem;
     position: fixed;
     width: 100vw;
     z-index:1;
@@ -21,7 +20,7 @@ header {
 
 .logo,
 nav {
-    line-height: 5rem;
+    line-height: 6rem;
     color: white;
 }
 
@@ -30,7 +29,7 @@ nav {
     padding-left: 3rem;
     padding-right: 3rem;
     font-size: 2rem;
-    border-right: 1px solid #617A55;
+    border-right: 1px solid white;
 }
 
 nav {
@@ -56,6 +55,7 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+    text-underline-offset: 0.5rem;
 }
 
 .hero-image {
@@ -123,7 +123,8 @@ p {
 
 .why-visit {
     width: 100%;
-    margin: 4rem auto;
+    margin: 0 auto;
+    margin-top: 4rem;
     padding: 0;
     column-count: 4;
     column-gap: 0;
@@ -133,16 +134,20 @@ p {
 .visit-box {
     height: 300px;
     width: 100%;
-    background-color: #617A55;
-    color: white;
     margin: 0 auto;
     border-right: 1px solid #263A29;
-    border-bottom: 1px solid #263A29;
+    border-bottom: none;
+    box-sizing: border-box;
+}
+
+.visit-box:first-of-type {
+    border-left:1px solid #263A29;
     box-sizing: border-box;
 }
 
 #visit h3 {
-    color: white;
+    background-color: white;
+    color: #263A29;
 }
 
 h3 {
@@ -238,12 +243,12 @@ h3 {
 footer {
     width:100%;
     box-sizing: border-box;
-    padding:2rem 0;
+    padding:0;
 }
 
 .social-media-links {
     background-color:#263A29;
-    height:100px;
+    height:6rem;
     width:100%;
     margin:0;
     position: relative;
@@ -252,7 +257,7 @@ footer {
 }
 
 .social-media-links i {
-    line-height:100px;
+    line-height:6rem;
     vertical-align: middle;
     font-size:2rem;
     color:white;
