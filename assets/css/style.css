@@ -73,24 +73,20 @@ nav a:hover {
 
 @keyframes hero-image-zoom {
     from {
-        transform: scale(1);
+        transform: scale(1.1);
     }
 
     to {
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
 
 h2 {
+    width: 25%;
     font-size: 1.5rem;
     font-weight: 600;
     margin: 0 auto;
     text-align: center;
-    width: 25%;
-    /* background-color: #FFF8D6;
-    border: 1px solid #263A29;
-    border-radius: 1rem; */
-    /* color: #617A55; */
     padding: 2.25rem 0;
     clear: both;
 }
@@ -237,4 +233,48 @@ h3 {
 .section-image-3 {
     background: url('../images/aubergines-purple-background.jpg') no-repeat center center;
     background-size: cover;
+}
+
+footer {
+    width:100%;
+    box-sizing: border-box;
+    padding:2rem 0;
+}
+
+.social-media-links {
+    background-color:#263A29;
+    height:100px;
+    width:100%;
+    margin:0;
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+.social-media-links i {
+    line-height:100px;
+    vertical-align: middle;
+    font-size:2rem;
+    color:white;
+    margin:0 1rem;
+}
+
+.social-media-links i:last-of-type {
+    margin-right:2rem;
+}
+
+.footer-list {
+    display: block;
+    column-count: 3;
+    padding:2rem 0;
+    text-align: center;
+}
+
+.footer-list ul {
+    list-style-type:none;
+    padding-top:2rem;
+}
+
+.footer-list ul li {
+    padding:0.75rem 0;
 }
