@@ -103,15 +103,18 @@ p {
 }
 
 #visit {
-    background-color: rgb(255, 211, 130);
-    padding: 4rem;
+    width: 100%;
+    background-color: white;
+    padding: 0;
+    margin: 0 auto;
 }
 
 .why-visit {
     width: 100%;
     margin: 4rem auto;
-    padding: 0 2.25rem;
+    padding: 0;
     column-count: 4;
+    column-gap: 0;
     box-sizing: border-box;
 }
 
@@ -121,8 +124,8 @@ p {
     background-color: #617A55;
     color: white;
     margin: 0 auto;
-    border: 1px solid #263A29;
-    border-top: none;
+    border-right: 1px solid #263A29;
+    border-bottom: 1px solid #263A29;
     box-sizing: border-box;
 }
 
@@ -136,8 +139,8 @@ h3 {
     text-align: center;
     font-size: 1.25rem;
     font-weight: 600;
-    border: 1px solid #263A29;
-    border-radius: 1rem 1rem 0 0;
+    border-top: 1px solid #263A29;
+    border-left: 1px solid #263A29;
     background-color: #617A55;
 }
 
@@ -166,76 +169,42 @@ h3 {
     margin: 0 auto;
     padding: 2.25rem;
     box-sizing: border-box;
-    border-radius: 0 0 1rem 1rem;
     text-align: center;
 }
 
-#menu {
-    margin: 0 auto;
-    padding: 4rem;
-    background-color: blanchedalmond;
+.section-link {
+    width: 100%;
+    height: 400px;
+    column-count: 2;
+    column-gap: 0;
+    margin: 0;
 }
 
-.appetisers,
-.entrees,
-.desserts,
-.drinks {
-    width: 50%;
-    margin: 0 auto;
+.section-link-h2 {
+    height: 100%;
+    line-height: 300px;
+    vertical-align: middle;
     box-sizing: border-box;
-}
-
-#menu h3 {
-    background-color: #617A55;
-    color: #fff;
-}
-
-.entrees-heading,
-.desserts-heading,
-.drinks-heading {
-    border-radius: 0;
-}
-
-#menu ul {
     background-color: white;
-    color: #263A29;
-    border-left: 1px solid #263A29;
-    border-right: 1px solid #263A29;
-}
-
-#menu li {
-    padding: 1rem 2rem;
-    list-style-type: none;
-    font-size: 1.15rem;
-    font-weight: 600;
-}
-
-#menu li:first-of-type {
-    padding-top: 2rem;
-}
-
-#menu li:last-of-type {
-    padding-bottom: 2rem;
-}
-
-.menu-items {
-    float: left;
-    font-size: 1rem;
-}
-
-.price {
-    float: right;
-    font-size: 1.15rem;
-    font-weight: 600;
-}
-
-.add-ons {
-    position: relative;
-    list-style-type: none;
-    font-size: 0.8rem;
-}
-
-.drinks ul {
-    border-radius: 0 0 1rem 1rem;
+    color:#263A29;
+    border-top: 1px solid #263A29;
     border-bottom: 1px solid #263A29;
+}
+
+.section-link-image {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-top: 1px solid #263A29;
+    border-bottom: 1px solid #263A29;
+}
+
+.section-image-1 {
+    background: url('../images/coconuts-blue-background.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.section-image-2 {
+    background: url('../images/pineapple-orange-background.jpg') no-repeat center center;
+    background-size: cover;
 }
