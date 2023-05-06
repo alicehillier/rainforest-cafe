@@ -1,39 +1,65 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Introduction
+Welcome to Rainforest Cafe’s website! Located in the heart of London’s Soho district, we’ve brought a little piece of the rainforest to one of the world’s busiest cities. Relax in our plant-filled cafe, or soak up the sun in our tropical garden. Feast on our naturally delicious treats and feel good for doing good, by dining with a sustainable and fairtrade business.
+Rainforest Cafe is a fictional business, created by Alice Hillier for the first project in Code Institute’s Diploma in Software Development programme.
 
-Welcome,
+Strategy Plane
+In order to gauge what makes a successful restaurant website, I undertook online research to find common themes, features and layouts. 
+Some of the restaurant websites I researched were:
+Las Iguanas 
+•	Offers Latin American cuisine
+•	Horizontal navbar, with repeated links throughout the page
+•	Vibrant background colours/links
+•	Lots of images of colourful food and tropical locations/beaches
+•	Large fonts
+•	Features include – ‘book now’ button on top right corner, menu, about, find us, deliveries, parties, shop
+•	Subscription prompt at the bottom of the page
+Nando’s
+•	Offers barbecued chicken in a variety of sauces (some vegetarian options available)
+•	Horizontal navbar, with repeat links throughout the page
+•	Primarily white background with vibrant links and images of colourful food
+•	Medium to large fonts
+•	Features include – ‘order online’ button on top right corner, menu, loyalty scheme, restaurants, cook, about us, help, careers
+•	Subscription prompt underneath header
+Turtle Bay
+•	Offers Caribbean cuisine
+•	Horizontal navbar, with repeated links throughout page
+•	Vibrant background colours/links
+•	Lots of images of colourful food, cocktails and tropical locations
+•	Features include – ‘book now’ button on top right corner, menu, locations, bottomless, happy hour, delivery, community
+As part of my research, I also conducted interviews to identify what a user wants or needs from a restaurant website.
+User Stories
+First Time Visitor Goal
+•	I want to find out what type of food I can expect from this restaurant
+•	I want to find out about the restaurant’s theme and atmosphere
+•	I want to know the location and opening times of the restaurant
+•	I want to see if I like anything on the menu and if vegetarian options are available
+•	I want to find what I’m looking for quickly, without having to read too much or follow too many links
+Returning Visitor Goal
+•	I want to see if there are any special offers
+•	I want to see if I can book a table at my preferred location
+Frequent Visitor Goal
+•	I want to see if there is a loyalty scheme
+•	I want to subscribe to the newsletter for special offers and discounts
+•	I want to visit the restaurant’s social media profiles to find new offers
+•	I want to know if there are new additions to the menu
+•	I want to know if I can buy any of the restaurant’s products to cook at home
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Scope Plane
+Based on the research conducted in the Strategy Plane, I decided to include the following features in Rainforest Cafe’s website:
+•	‘Book Now’ button
+•	Find Us/Locations page with opening times and contact information
+•	Menu page
+•	About Us section on the landing page
+•	Subscription option and social media links at the bottom of each page
+I made the following design choices based on research of competitors’ websites: 
+•	Use vibrant colours to reflect the theme of the restaurant
+•	Use plenty of images to show the restaurant’s products and atmosphere
+I ensured that I met the following functionality requirements:
+•	Users can navigate to the correct section quickly and easily
+•	Use less text and more images to convey information to users
+•	Users can use the website comfortably on different devices
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+Structure Plane
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
