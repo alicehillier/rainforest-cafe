@@ -195,6 +195,7 @@ h3 {
     column-count: 2;
     column-gap: 0;
     margin: 0;
+    overflow: hidden;
 }
 
 .section-link-heading {
@@ -213,7 +214,7 @@ h3 {
     top:25%;
     text-align: center;
     transform: rotate(-15deg);
-    font-size:4rem;
+    font-size:2rem;
     text-transform: uppercase;
 }
 
