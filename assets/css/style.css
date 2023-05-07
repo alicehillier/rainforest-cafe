@@ -483,3 +483,24 @@ footer ul li a {
     height: 50%;
     padding: 2rem;
 }
+
+/* Book Now Page */
+
+#form-section {
+    height:750px;
+    column-count: 2;
+}
+
+form {
+    height: 100%;
+    width: 100%;
+    color: #263A29;
+}
+
+.book-now-image {
+background: url('../images/plants-background.jpg') no-repeat center center;
+background-size: cover;
+height: 100%;
+width: 100%;
+}
+
