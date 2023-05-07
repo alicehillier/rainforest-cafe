@@ -15,7 +15,7 @@ header {
     height: 6rem;
     position: fixed;
     width: 100vw;
-    z-index:1;
+    z-index: 1;
 }
 
 .logo,
@@ -91,12 +91,9 @@ h2 {
     clear: both;
 }
 
-#welcome {
+.page-title {
     background-color: white;
     color: #263A29;
-}
-
-#welcome h2 {
     font-size: 4rem;
 }
 
@@ -141,7 +138,7 @@ p {
 }
 
 .visit-box:first-of-type {
-    border-left:1px solid #263A29;
+    border-left: 1px solid #263A29;
     box-sizing: border-box;
 }
 
@@ -199,22 +196,22 @@ h3 {
 }
 
 .section-link-heading {
-    height:100%;
+    height: 100%;
     box-sizing: border-box;
     background-color: white;
-    color:#263A29;
+    color: #263A29;
     border-top: 1px solid #263A29;
     border-bottom: 1px solid #263A29;
 }
 
 .section-link h2 {
-    height:100%;
-    width:100%;
+    height: 100%;
+    width: 100%;
     position: relative;
-    top:25%;
+    top: 25%;
     text-align: center;
     transform: rotate(-15deg);
-    font-size:2rem;
+    font-size: 2rem;
     text-transform: uppercase;
 }
 
@@ -242,45 +239,84 @@ h3 {
 }
 
 footer {
-    width:100%;
+    position: relative;
+    bottom: 0;
+    width: 100%;
     box-sizing: border-box;
-    padding:0;
+    padding: 0;
 }
 
 .social-media-links {
-    background-color:#263A29;
-    height:6rem;
-    width:100%;
-    margin:0;
+    background-color: #263A29;
+    height: 6rem;
+    width: 100%;
+    margin: 0;
     position: relative;
     display: block;
     text-align: center;
 }
 
 .social-media-links i {
-    line-height:6rem;
+    line-height: 6rem;
     vertical-align: middle;
-    font-size:2rem;
-    color:white;
-    margin:0 1rem;
+    font-size: 2rem;
+    color: white;
+    margin: 0 1rem;
 }
 
 .social-media-links i:last-of-type {
-    margin-right:2rem;
+    margin-right: 2rem;
+}
+
+.social-media-links i:hover {
+    transform: scale(1.5);
 }
 
 .footer-list {
     display: block;
     column-count: 3;
-    padding:2rem 0;
+    padding: 2rem 0;
     text-align: center;
 }
 
 .footer-list ul {
-    list-style-type:none;
-    padding-top:2rem;
+    list-style-type: none;
+    padding-top: 2rem;
 }
 
 .footer-list ul li {
-    padding:0.75rem 0;
+    padding: 0.75rem 0;
+}
+
+/* Menu Page */
+
+.top-buffer {
+    padding-top: 10rem;
+}
+
+#menu {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.starters,
+.mains,
+.desserts,
+.drinks {
+    width: 100%;;
+    margin-top:4rem;
+    border:2px solid red;
+    box-sizing: border-box;
+    column-count: 4;
+    column-gap: 2rem;
+    display: inline-block;
+}
+
+.menu-item-card {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 2rem;
+    border: 1px solid black;
+    box-sizing: border-box;
 }
