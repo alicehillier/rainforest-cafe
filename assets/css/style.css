@@ -3,12 +3,15 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     background-color: #fff;
 }
+
+/* Header Styles */
 
 header {
     background-color: #263A29;
@@ -100,7 +103,6 @@ h2 {
 #welcome p {
     width: 75%;
     margin: 0 auto;
-    box-sizing: border-box;
     padding: 2.25rem;
     text-align: center;
     font-size: 2rem;
@@ -110,6 +112,8 @@ p {
     font-size: 1.15rem;
     font-weight: 500;
 }
+
+/* About Us Section Styles */
 
 #visit {
     width: 100%;
@@ -125,7 +129,6 @@ p {
     padding: 0;
     column-count: 4;
     column-gap: 0;
-    box-sizing: border-box;
 }
 
 .visit-box {
@@ -134,12 +137,10 @@ p {
     margin: 0 auto;
     border-right: 1px solid #263A29;
     border-bottom: none;
-    box-sizing: border-box;
 }
 
 .visit-box:first-of-type {
     border-left: 1px solid #263A29;
-    box-sizing: border-box;
 }
 
 #visit h3 {
@@ -149,7 +150,6 @@ p {
 
 h3 {
     padding: 2.25rem;
-    box-sizing: border-box;
     text-align: center;
     font-size: 1.25rem;
     font-weight: 600;
@@ -182,9 +182,10 @@ h3 {
     width: 100%;
     margin: 0 auto;
     padding: 2.25rem;
-    box-sizing: border-box;
     text-align: center;
 }
+
+/* Page Links Section Styles */
 
 .section-link {
     width: 100%;
@@ -197,7 +198,6 @@ h3 {
 
 .section-link-heading {
     height: 100%;
-    box-sizing: border-box;
     background-color: white;
     color: #263A29;
     border-top: 1px solid #263A29;
@@ -218,7 +218,6 @@ h3 {
 .section-link-image {
     height: 100%;
     width: 100%;
-    box-sizing: border-box;
     border-top: 1px solid #263A29;
     border-bottom: 1px solid #263A29;
 }
@@ -238,11 +237,12 @@ h3 {
     background-size: cover;
 }
 
+/* Footer Styles */
+
 footer {
     position: relative;
     bottom: 0;
     width: 100%;
-    box-sizing: border-box;
     padding: 0;
 }
 
@@ -304,19 +304,29 @@ footer {
 .mains,
 .desserts,
 .drinks {
-    width: 100%;;
-    margin-top:4rem;
-    border:2px solid red;
-    box-sizing: border-box;
+    width: 80%;
+    margin-top: 4rem;
+    border: 2px solid red;
     column-count: 4;
     column-gap: 2rem;
     display: inline-block;
 }
 
 .menu-item-card {
-    height: 500px;
+    height: 350px;
     width: 100%;
     margin-bottom: 2rem;
     border: 1px solid black;
-    box-sizing: border-box;
+}
+
+.menu-item-image {
+    height: 50%;
+    width: 100%;
+    background: url('../images/aubergines-purple-background.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.menu-item-description {
+    height:50%;
+    padding:2rem;
 }
