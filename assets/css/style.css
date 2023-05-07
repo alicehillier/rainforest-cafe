@@ -50,15 +50,19 @@ nav li:first-of-type {
 }
 
 nav a {
-    text-decoration: none;
     color: #fff;
     font-size: 1.5rem;
     font-weight: 600;
 }
 
-nav a:hover {
+nav a:hover,
+footer ul li a:hover {
     text-decoration: underline;
     text-underline-offset: 0.5rem;
+}
+
+a {
+    text-decoration: none;
 }
 
 .hero-image {
@@ -198,7 +202,6 @@ h3 {
 
 .section-link-heading {
     height: 100%;
-    background-color: white;
     color: #263A29;
     border-top: 1px solid #263A29;
     border-bottom: 1px solid #263A29;
@@ -288,6 +291,10 @@ footer {
     padding: 0.75rem 0;
 }
 
+footer ul li a {
+    color: #263A29;
+}
+
 /* Menu Page */
 
 .top-buffer {
@@ -306,10 +313,10 @@ footer {
 .drinks {
     width: 80%;
     margin-top: 4rem;
-    border: 2px solid red;
     column-count: 4;
     column-gap: 2rem;
     display: inline-block;
+    padding: 2rem;
 }
 
 .menu-item-card {
@@ -322,11 +329,157 @@ footer {
 .menu-item-image {
     height: 50%;
     width: 100%;
-    background: url('../images/aubergines-purple-background.jpg') no-repeat center center;
+}
+
+/* Menu: Starters Cards with Images */
+
+.item-1 {
+    background: url('../images/menu-items/starters-aubergine.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-2 {
+    background: url('../images/menu-items/starters-avocado.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-3 {
+    background: url('../images/menu-items/starters-pear-bruschetta.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-4 {
+    background: url('../images/menu-items/starters-focaccia.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-5 {
+    background: url('../images/menu-items/starters-pumpkin-soup.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-6 {
+    background: url('../images/menu-items/starters-tomato-soup.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-7 {
+    background: url('../images/menu-items/starters-olives.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+/* Menu: Mains Cards with Images */
+
+.item-8 {
+    background: url('../images/menu-items/mains-superfood-salad.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-9 {
+    background: url('../images/menu-items/mains-tofu-salad.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-10 {
+    background: url('../images/menu-items/mains-vegetable-noodles.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-11 {
+    background: url('../images/menu-items/mains-veggie-burger.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-12 {
+    background: url('../images/menu-items/mains-tofu-coconut-curry.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-13 {
+    background: url('../images/menu-items/mains-pizza.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-14 {
+    background: url('../images/menu-items/mains-cauliflower-salad.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+/* Menu: Desserts Cards with Images */
+
+.item-15 {
+    background: url('../images/menu-items/desserts-apple-tart.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-16 {
+    background: url('../images/menu-items/desserts-brownies.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-17 {
+    background: url('../images/menu-items/desserts-cheesecake.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-18 {
+    background: url('../images/menu-items/desserts-lemon-pie.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-19 {
+    background: url('../images/menu-items/desserts-macarons.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-20 {
+    background: url('../images/menu-items/desserts-raspberry-lollies.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-21 {
+    background: url('../images/menu-items/desserts-ice-cream.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+/* Menu: Drinks Cards with Images */
+
+.item-22 {
+    background: url('../images/menu-items/drinks-orange-soda.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-23 {
+    background: url('../images/menu-items/drinks-peach-tea.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-24 {
+    background: url('../images/menu-items/drinks-strawberry-tea.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-25 {
+    background: url('../images/menu-items/drinks-green-smoothie.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-26 {
+    background: url('../images/menu-items/drinks-strawberry-smoothie.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-27 {
+    background: url('../images/menu-items/drinks-soft-drinks.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-28 {
+    background: url('../images/menu-items/drinks-coffee.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .menu-item-description {
-    height:50%;
-    padding:2rem;
+    height: 50%;
+    padding: 2rem;
 }
