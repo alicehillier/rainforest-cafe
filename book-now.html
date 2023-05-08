@@ -26,11 +26,53 @@
 
     <div class="top-buffer"></div>
     <section id="form-section">
-    <form action="" method="POST">
-            <label for="date">When would you like to visit?<input type="date"></label>
-            <label for="time">What time do you want to dine?<input type="time"></label>
-    </form>
-    <div class="book-now-image"></div>
+        <form action="" method="POST">
+            <fieldset class="booking-details">
+                <div class="container">
+                    <label for="book-date">When would you like to visit?</label>
+                    <input type="date" id="book-date">
+                </div>
+                <div class="container">
+                    <label for="book-time">What time would you like to visit?</label>
+                    <select name="book-time" id="book-time">
+                        <option value="12pm">12:00 PM</option>
+                        <option value="12pm">12:30 PM</option>
+                        <option value="12pm">13:00 PM</option>
+                        <option value="12pm">13:30 PM</option>
+                        <option value="12pm">14:00 PM</option>
+                        <option value="12pm">14:30 PM</option>
+                        <option value="12pm">15:00 PM</option>
+                        <option value="12pm">15:30 PM</option>
+                        <option value="12pm">16:00 PM</option>
+                        <option value="12pm">16:30 PM</option>
+                        <option value="12pm">17:00 PM</option>
+                        <option value="12pm">17:30 PM</option>
+                        <option value="12pm">18:00 PM</option>
+                        <option value="12pm">18:30 PM</option>
+                        <option value="12pm">19:00 PM</option>
+                    </select>
+                </div>
+                <div class="container">
+                    <label for="guest-count">Number of Guests</label>
+                    <select name="guest-count" id="guest-count">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                    </select>
+                </div>
+                <div class="container"><label for="comments">Please let us know if you, or any of your guests, have
+                        special
+                        dietary
+                        requirements,
+                        allergies or anything else that we should know about.</label>
+                    <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+                </div>
+            </fieldset>
+        </form>
+        <div class="book-now-image"></div>
     </section>
 
     <!-- Footer Section -->

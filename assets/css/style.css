@@ -497,6 +497,24 @@ form {
     color: #263A29;
 }
 
+.booking-details {
+    width:100%;
+    margin:0 auto;
+    padding:2rem;
+}
+
+.container {
+    width:100%;
+    display: inline-grid;
+    grid-template-columns: 50% 50%;
+    padding:2rem;
+}
+
+label, input, select, textarea {
+    width:100%;
+    padding:0 2rem;
+} 
+
 .book-now-image {
 background: url('../images/plants-background.jpg') no-repeat center center;
 background-size: cover;
