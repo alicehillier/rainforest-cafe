@@ -22,6 +22,7 @@ header {
 }
 
 .logo,
+.logo a,
 nav {
     line-height: 6rem;
     color: white;
@@ -291,6 +292,21 @@ footer ul li a {
     color: #263A29;
 }
 
+/* Find Us Page */
+
+.map-box {
+    height: 100%;
+    width: 100%;
+    margin-top: 4rem;
+    column-count: 2;
+    text-align: center;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
 /* Menu Page */
 
 .top-buffer {
@@ -341,7 +357,7 @@ footer ul li a {
     width: 100%;
     margin-bottom: 2rem;
     background-color: white;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .menu-item-image {
@@ -598,4 +614,5 @@ textarea {
     border: 0.5px solid #263A29;
     color: white;
     font-size: 1rem;
+    cursor: pointer;
 }
