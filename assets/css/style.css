@@ -534,12 +534,16 @@ img {
 
 /* Book Now Page */
 
+.book-now-buffer {
+    padding-top: 2rem;
+}
+
 #form-section {
     height: 100%;
     background: url('../images/plants-background.jpg') no-repeat center center;
     background-size: cover;
     padding: 6rem 0;
-    margin-top: 6rem;
+    margin-top: 4rem;
 }
 
 form {
@@ -563,40 +567,43 @@ form {
 fieldset {
     border: none;
     background-color: white;
+    column-count: 2;
 }
 
 /* Container grouping labels with their respective inputs */
 .container {
-    margin: 1rem auto;
-    padding: 0.5rem;
-
+    width:100%;
+    margin: 0.5rem auto;
+    display: grid;
+    column-count: 2;
+    grid-template-columns: 1fr 1fr;
 }
 
 label {
+    width: 80%;
     font-weight: 600;
-    width: 50%;
     text-align: left;
-}
-
-input,
-select,
-textarea {
-    width: 50%;
-    border: 0.5px solid #263A29;
+    margin-left:25%;
 }
 
 label,
 input,
 select,
 textarea {
-    display: block;
-    margin: 1rem auto;
+    height: 100%;
+    padding: 0.5rem;
 }
 
 input,
 select,
 textarea {
-    padding: 0.5rem;
+    width: 50%;
+    margin: 0 auto;
+    border: 0.5px solid #263A29;
+}
+
+textarea {
+    resize: none;
 }
 
 .button-wrapper {
