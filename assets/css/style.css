@@ -241,7 +241,7 @@ p {
 /* Footer Styles */
 
 .footer-buffer {
-    margin-top:6rem;
+    margin-top: 6rem;
 }
 
 footer {
@@ -324,37 +324,77 @@ img {
     text-align: center;
 }
 
+/* Menu Navbar */
+
+.menu-nav {
+    height: 4rem;
+    line-height: 4rem;
+    vertical-align: middle;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 4rem;
+    display: inline-block;
+    column-count: 4;
+    column-gap: 0;
+    background-color: #263A29;
+}
+
+.menu-nav li {
+    height: 100%;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    border-bottom: 2px solid white;
+}
+
+.menu-nav li a {
+    font-size:1.25rem;
+    font-weight:600;
+    color: white;
+}
+
+.menu-nav li a:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+}
+
 /* Menu Sections */
 
-.starters,
-.mains,
-.desserts,
-.drinks {
+#starters,
+#mains,
+#desserts,
+#drinks {
     width: 80%;
     height: 100%;
-    margin:0 auto;
-    margin-top:4rem;
+    margin: 0 auto;
     display: grid;
     column-count: 4;
     column-gap: 2rem;
     display: inline-block;
-    padding:2rem;
-    padding-bottom:0;
+    padding: 2rem;
+    padding-bottom: 0;
 }
 
-.starters {
+#mains, #desserts, #drinks {
+    margin-top:2rem;
+}
+
+#starters {
     background-color: #41644A;
+    animation-name:slidein-left;
+    animation-duration: 2s;
+
 }
 
-.mains {
+#mains {
     background-color: #E86A33;
 }
 
-.desserts {
+#desserts {
     background-color: #41644A;
 }
 
-.drinks {
+#drinks {
     background-color: #E86A33;
 }
 
@@ -379,7 +419,7 @@ img {
     height: 15%;
     font-size: 1.1rem;
     padding: 1rem;
-    padding-top:1.5rem;
+    padding-top: 1.5rem;
 }
 
 .menu-item-description {
@@ -388,7 +428,7 @@ img {
     margin: 0 auto;
     height: 35%;
     font-size: 1rem;
-    padding:1.5rem 0;
+    padding: 1.5rem 0;
 }
 
 .menu-item-description span {
@@ -397,7 +437,7 @@ img {
     display: block;
     font-size: 0.8rem;
     font-weight: 600;
-    padding:1.5rem 0;
+    padding: 1.5rem 0;
 }
 
 /* Menu: Starters Cards with Images */
@@ -588,7 +628,7 @@ fieldset {
 
 /* Container grouping labels with their respective inputs */
 .container {
-    width:100%;
+    width: 100%;
     margin: 0.5rem auto;
     display: grid;
     column-count: 2;
@@ -599,7 +639,7 @@ label {
     width: 80%;
     font-weight: 600;
     text-align: left;
-    margin-left:25%;
+    margin-left: 25%;
 }
 
 label,
