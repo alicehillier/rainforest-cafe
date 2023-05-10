@@ -414,7 +414,7 @@ img {
 .menu-subheading h2 {
     width: 100%;
     position: relative;
-    top:27.5%;
+    top: 27.5%;
     font-size: 3rem;
 }
 
@@ -432,11 +432,11 @@ img {
 }
 
 .icon {
-    width:2rem;
+    width: 2rem;
     font-size: 0.8rem;
     display: inline;
     text-align: center;
-    margin:0 1rem;
+    margin: 0 1rem;
 }
 
 .icon:first-of-type {
@@ -575,7 +575,7 @@ img {
 /* Menu: Drinks Cards with Images */
 
 .item-22 {
-    background: url('../images/menu-items/drinks-orange-soda.jpg') no-repeat center center;
+    background: url('../images/menu-items/drinks-green-smoothie.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -585,22 +585,22 @@ img {
 }
 
 .item-24 {
-    background: url('../images/menu-items/drinks-strawberry-tea.jpg') no-repeat center center;
-    background-size: cover;
-}
-
-.item-25 {
-    background: url('../images/menu-items/drinks-green-smoothie.jpg') no-repeat center center;
-    background-size: cover;
-}
-
-.item-26 {
     background: url('../images/menu-items/drinks-strawberry-smoothie.jpg') no-repeat center center;
     background-size: cover;
 }
 
-.item-27 {
+.item-25 {
+    background: url('../images/menu-items/drinks-orange-soda.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-26 {
     background: url('../images/menu-items/drinks-soft-drinks.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.item-27 {
+    background: url('../images/menu-items/drinks-strawberry-tea.jpg') no-repeat center center;
     background-size: cover;
 }
 
