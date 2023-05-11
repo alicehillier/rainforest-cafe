@@ -58,6 +58,7 @@ nav a {
     font-weight: 600;
 }
 
+.active,
 nav a:hover,
 footer ul li a:hover {
     text-decoration: underline;
@@ -703,3 +704,9 @@ textarea {
     }
 
 }
+
+/* Find Us Page Media Queries */
+
+/* Menu Page Media Queries */
+
+/* Book Now Page Media Queries */
