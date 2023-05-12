@@ -276,7 +276,7 @@ footer {
 .footer-list {
     display: block;
     column-count: 3;
-    padding: 2rem 0;
+    padding: 2rem;
     text-align: center;
 }
 
@@ -699,13 +699,17 @@ textarea {
         background-color: #263A29;
     }
 
+    .page-title {
+        width: 100%;
+    }
+
     .why-visit {
         column-count: 2;
     }
 
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
 
     .nav ul {
         column-count: 1;
@@ -713,6 +717,20 @@ textarea {
 
     .why-visit {
         column-count: 1;
+    }
+
+    .visit-box-title {
+        font-size: 3rem;
+    }
+
+    .box-text {
+        height: 100%;
+    }
+
+    .box-text p {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 1.75rem;
     }
 
     .section-link {
@@ -748,10 +766,6 @@ textarea {
 
     nav li:first-of-type {
         margin-left: 0;
-    }
-
-    .page-title {
-        width: 100%;
     }
 
     .why-visit {
