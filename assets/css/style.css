@@ -705,6 +705,22 @@ textarea {
 
 }
 
+@media only screen and (max-width: 768px) {
+
+    .nav ul {
+        column-count: 1;
+    }
+
+    .why-visit {
+        column-count: 1;
+    }
+
+    .section-link {
+        column-count: 1;
+    }
+
+}
+
 @media only screen and (max-width: 600px) {
 
     .logo,
@@ -713,7 +729,7 @@ textarea {
         width: 100%;
         text-align: center;
         background-color: #263A29;
-        line-height:3rem;
+        line-height: 3rem;
     }
 
     nav ul {
@@ -726,7 +742,7 @@ textarea {
 
     nav ul li {
         margin: 0;
-        width:100%;
+        width: 100%;
         text-align: center;
     }
 
