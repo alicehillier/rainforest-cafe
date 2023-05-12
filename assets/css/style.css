@@ -713,6 +713,7 @@ textarea {
         width: 100%;
         text-align: center;
         background-color: #263A29;
+        line-height:3rem;
     }
 
     nav ul {
