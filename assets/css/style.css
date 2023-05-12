@@ -705,6 +705,52 @@ textarea {
 
 }
 
+@media only screen and (max-width: 600px) {
+
+    .logo,
+    nav {
+        display: block;
+        width: 100%;
+        text-align: center;
+        background-color: #263A29;
+    }
+
+    nav ul {
+        width: 100%;
+        display: grid;
+        column-count: 2;
+        grid-template-columns: 1fr 1fr;
+        text-align: center;
+    }
+
+    nav ul li {
+        margin: 0;
+        width:100%;
+        text-align: center;
+    }
+
+    nav li:first-of-type {
+        margin-left: 0;
+    }
+
+    .page-title {
+        width: 100%;
+    }
+
+    .why-visit {
+        column-count: 1;
+    }
+
+    .section-link {
+        column-count: 1;
+    }
+
+    .footer-list {
+        column-count: 1;
+    }
+
+}
+
 /* Find Us Page Media Queries */
 
 /* Menu Page Media Queries */
