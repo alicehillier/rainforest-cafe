@@ -743,10 +743,6 @@ textarea {
 
     .logo,
     nav {
-        display: block;
-        width: 100%;
-        text-align: center;
-        background-color: #263A29;
         line-height: 3rem;
     }
 
@@ -766,10 +762,6 @@ textarea {
 
     nav li:first-of-type {
         margin-left: 0;
-    }
-
-    .why-visit {
-        column-count: 1;
     }
 
     .section-link {
