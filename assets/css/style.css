@@ -601,8 +601,6 @@ footer ul li a {
     background-size: cover;
 }
 
-/* Find Us Page */
-
 /* Book Now Page */
 
 .book-now-buffer {
@@ -787,6 +785,12 @@ textarea {
 
     /* Find Us Page Media Queries up to 992px*/
 
+    .map-and-address {
+        width:80%;
+        column-count: 1;
+        grid-template-columns: 1fr;
+    }
+
     /* Book Now Page Media Queries up to 992px*/
 }
 
@@ -831,11 +835,14 @@ textarea {
     #mains,
     #desserts,
     #drinks {
-        width: 100%;
         column-count: 1;
     }
 
     /* Find Us Page Media Queries up to 600px*/
+
+    .map-and-address {
+        width:100%;
+    }
 
     /* Book Now Page Media Queries up to 600px*/
 
