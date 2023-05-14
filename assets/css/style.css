@@ -289,7 +289,7 @@ footer ul li a {
 /* Find Us Page */
 
 .map-and-address {
-    height: 600px;
+    height: 100%;
     width: 80%;
     margin: 0 auto;
     margin-top: 4rem;
@@ -309,6 +309,7 @@ footer ul li a {
 .address-details {
     width: 100%;
     height: 100%;
+    padding:2rem 0;
 }
 
 hr {
@@ -316,7 +317,7 @@ hr {
 }
 
 .opening-hours-list {
-    padding: 1rem;
+    padding-top: 1rem;
     display: grid;
     column-count: 2;
     grid-template-columns: 1fr 1fr;
@@ -325,11 +326,13 @@ hr {
 .opening-hours-list p {
     text-align: right;
     padding: 1rem;
+    padding-bottom: 0;
 }
 
 .open-from-to {
     text-align: left;
     padding: 1rem;
+    padding-bottom: 0;
 }
 
 /* Menu Page */
