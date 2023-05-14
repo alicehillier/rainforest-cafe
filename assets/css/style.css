@@ -133,7 +133,7 @@ p {
 .why-visit {
     width: 100%;
     margin: 4rem auto;
-    margin-bottom:6rem;
+    margin-bottom: 6rem;
     padding: 0;
     column-count: 4;
     column-gap: 0;
@@ -297,7 +297,6 @@ footer ul li a {
     column-count: 2;
     grid-template-columns: 1fr 1fr;
     text-align: center;
-
 }
 
 .map {
@@ -310,7 +309,27 @@ footer ul li a {
 .address-details {
     width: 100%;
     height: 100%;
-    padding: 2rem;
+}
+
+hr {
+    margin:3rem;
+}
+
+.opening-hours-list {
+    padding: 1rem;
+    display: grid;
+    column-count: 2;
+    grid-template-columns: 1fr 1fr;
+}
+
+.opening-hours-list p {
+    text-align: right;
+    padding: 1rem;
+}
+
+.open-from-to {
+    text-align: left;
+    padding: 1rem;
 }
 
 /* Menu Page */
@@ -623,7 +642,7 @@ form {
 }
 
 #form-section h2 {
-    padding:6rem;
+    padding: 6rem;
     padding-bottom: 3rem;
 }
 
