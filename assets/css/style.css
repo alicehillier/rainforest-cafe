@@ -758,11 +758,23 @@ textarea {
 
     /* Find Us Page Media Queries up to 1200px */
 
+    .map-and-address {
+        width: 80%;
+        height: 100%;
+        column-count: 1;
+        grid-template-columns: 1fr;
+    }
+
+  .map {
+        height:300px;
+  }
+
+
     /* Book Now Page Media Queries up to 1200px */
 
-#form-section {
-    padding-top:12rem;
-}
+    #form-section {
+        padding-top: 12rem;
+    }
 
     form,
     #form-section h2 {
@@ -826,12 +838,6 @@ textarea {
 
     /* Find Us Page Media Queries up to 992px*/
 
-    .map-and-address {
-        width: 80%;
-        column-count: 1;
-        grid-template-columns: 1fr;
-    }
-
     /* Book Now Page Media Queries up to 992px*/
 }
 
@@ -839,11 +845,11 @@ textarea {
 
     /* Book Now Page Media Queries up to 768px*/
 
-#form-section {
-    padding-top:10rem;
-    padding-bottom:0;
-    margin:0;
-}
+    #form-section {
+        padding-top: 10rem;
+        padding-bottom: 0;
+        margin: 0;
+    }
 
     .container {
         width: 100%;
