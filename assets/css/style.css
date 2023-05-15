@@ -901,6 +901,14 @@ textarea {
         column-count: 1;
     }
 
+    .social-media-links {
+        height: 200%;
+    }
+
+    .social-media-links i {
+        width: 33%;
+    }
+
     .footer-list {
         column-count: 1;
     }
