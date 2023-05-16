@@ -727,11 +727,6 @@ textarea {
         width: 80%;
         margin: 0 auto;
     }
-
-    .why-visit {
-        column-count: 2;
-    }
-
 }
 
 @media only screen and (max-width: 1200px) {
@@ -754,8 +749,6 @@ textarea {
         column-count: 2;
     }
 
-    /* Menu Page Media Queries up to 1200px */
-
     /* Find Us Page Media Queries up to 1200px */
 
     .map-and-address {
@@ -765,10 +758,9 @@ textarea {
         grid-template-columns: 1fr;
     }
 
-  .map {
-        height:300px;
-  }
-
+    .map {
+        height: 300px;
+    }
 
     /* Book Now Page Media Queries up to 1200px */
 
@@ -785,7 +777,6 @@ textarea {
     #form-section h2 {
         padding: 3rem;
     }
-
 }
 
 @media only screen and (max-width: 992px) {
@@ -835,10 +826,6 @@ textarea {
         width: 100%;
         column-count: 2;
     }
-
-    /* Find Us Page Media Queries up to 992px*/
-
-    /* Book Now Page Media Queries up to 992px*/
 }
 
 @media only screen and (max-width: 768px) {
@@ -927,7 +914,4 @@ textarea {
     .map-and-address {
         width: 100%;
     }
-
-    /* Book Now Page Media Queries up to 600px*/
-
 }
