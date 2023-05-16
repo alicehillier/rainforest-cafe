@@ -49,11 +49,13 @@ As part of my research, I also conducted interviews to identify what a user want
 
 ## Scope Plane
 Based on the research conducted in the Strategy Plane, I decided to include the following features in Rainforest Cafe’s website:
--	‘Book Now’ button
--	Find Us/Locations page with opening times and contact information
+-	‘Book Now’ button and Book Now page
+-	Find Us page with opening times and contact information
 -	Menu page
 -	About Us section on the landing page
--	Subscription option and social media links at the bottom of each page
+-	Social media links at the bottom of each page as well as conventional footer links
+-   Form acceptance page and error page to deliver a more authentic experience.
+
 I made the following design choices based on research of competitors’ websites: 
 -	Use vibrant colours to reflect the theme of the restaurant
 -	Use plenty of images to show the restaurant’s products and atmosphere
@@ -63,6 +65,19 @@ I ensured that I met the following functionality requirements:
 -	Users can use the website comfortably on different devices
 
 ## Structure Plane
+The contents of the website were carefully considered and selected for their relevance and usefulness to users. 
 
+I decided to include only a small number of links in the navbar to avoid confusing users. The links were those that I found most common on other restaurant websites and, just as importantly, related to several of the points mentioned in the user stories.
+
+I also chose to separate the website into pages, so users wouldn't have to scroll endlessly to find the desired information. As the website features the restaurant's comprehensive menu, I felt that this feature in particular would cause frustration if it were to be implemented in a single-page website.  
+
+## Features
+### Navbar
+The navbar consists of these 5 items:
+1. Restaurant Name - Links to homepage
+2. Home - Links to homepage
+3. Menu - Links to a page consisting of the restaurant's entire menu, structured in clear sections with meal descriptions and prices.
+4. Find Us - Links to a page consisting of a clickable map, which takes the user to the exact location on Google Maps,the restaurant's address, telephone number and email address.  
+5. Book Now - Links to a form page, which asks for relevant details regarding users' booking. The submit button at the bottom of the form is centered and easy to identify.  
 
 
