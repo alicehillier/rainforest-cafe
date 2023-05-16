@@ -69,7 +69,14 @@ The contents of the website were carefully considered and selected for their rel
 
 I decided to include only a small number of links in the navbar to avoid confusing users. The links were those that I found most common on other restaurant websites and, just as importantly, related to several of the points mentioned in the user stories.
 
-I also chose to separate the website into pages, so users wouldn't have to scroll endlessly to find the desired information. As the website features the restaurant's comprehensive menu, I felt that this feature in particular would cause frustration if it were to be implemented in a single-page website.  
+I also chose to separate the website into pages, so users wouldn't have to scroll endlessly to find the desired information. As the website features the restaurant's comprehensive menu, I felt that this feature in particular would cause frustration if it were to be implemented in a single-page website.
+
+## Skeleton Plane
+When starting to design my website, I created detailed wireframes using Balsamiq. I considered how the website would appear on desktop, tablet and mobile devices, and prepared a set of wireframes which would show how the website would look as users scrolled through each page.
+To view the wireframes, please click on the links below:
+- Wireframes for desktop
+- Wireframes for tablet
+- Wireframes for mobile
 
 ## Features
 ### Navbar
