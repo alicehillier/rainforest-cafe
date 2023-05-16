@@ -345,6 +345,8 @@ hr {
     width: 100%;
     height: 100%;
     text-align: center;
+    margin: 0 auto;
+    overflow: hidden;
 }
 
 /* Menu Navbar */
@@ -352,6 +354,7 @@ hr {
 .menu-nav {
     height: 4rem;
     line-height: 4rem;
+    text-align: center;
     vertical-align: middle;
     width: 80%;
     margin: 0 auto;
@@ -901,11 +904,6 @@ textarea {
     }
 
     /* Menu Page Media Queries up to 600px*/
-
-#menu {
-    margin:0 auto;
-    overflow: hidden;
-}
 
     #starters,
     #mains,
