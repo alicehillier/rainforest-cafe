@@ -902,6 +902,11 @@ textarea {
 
     /* Menu Page Media Queries up to 600px*/
 
+#menu {
+    margin:0 auto;
+    overflow: hidden;
+}
+
     #starters,
     #mains,
     #desserts,
