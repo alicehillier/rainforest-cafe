@@ -720,6 +720,18 @@ textarea {
     cursor: pointer;
 }
 
+.message-heading {
+    font-size:4rem;
+    color: #263A29;
+    text-align: center;
+}
+
+.message-p {
+    width: 50%;
+    margin: 2rem auto;
+    text-align: center;
+}
+
 /* Media Queries */
 
 @media only screen and (min-width:1201px) {
