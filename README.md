@@ -280,3 +280,19 @@ The following features would be an excellent means to create a fuller experience
     clicked on, so the user couldn't see the interactive map or a broader view of the location.
 
     Solution: I realised that I had placed the anchor tag within the div, around another div. So, the anchor tag was applied to the inner div, which had no properties set. I moved the anchor tag outside of the outer div, which then allowed the user to click the working link. 
+
+## Deployment
+
+## Testing
+
+## Credits
+
+- Pexels and Unsplashed: All images were sourced from these two websites.
+
+- Font Awesome: All icons were sourced from this website.
+
+## Acknowledgements
+
+- My mentor, Oluwaseun Owonikoko, for her patience, support and consistent constructive feedback.
+- My peers, for their continued support and advice.
+- My husband, Norman, for his constant encouragement and for testing the website regularly.
