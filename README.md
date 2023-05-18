@@ -154,7 +154,9 @@ The background image, which extends across the full height and width of the page
 
 ## Features
 
-### Navbar
+### Homepage
+
+#### Navbar
 
 The navbar is fixed to the top of the screen and extends across the entire width of the page. On smaller devices, the navbar doubles in length in order to allow ample space between links. This limits the opportunity for accidentally pressing links.
 
@@ -171,3 +173,21 @@ The navbar consists of these 5 links:
 5. Book Now - Links to a form page, which asks for relevant details regarding users' booking. The submit button at the bottom of the form is centered and easy to identify.  
 
 I chose to include only a small number of links that would have value for users and prevent them from spending too much time trying to locate the desired information.
+
+#### Hero Image and Welcome Section
+
+Beneath the navbar, users see the large hero image, followed by a short welcome section. The welcome section consists of the restaurant's name and a brief description of it's theme.
+
+#### About Us
+
+Scrolling down, users see a four-column grid with the headings 'Our Food', 'Our Environment', 'Our Partners' and 'Our Planet'. Underneath each heading, an image covers the width of the column, with a short description relating to each heading underneath.
+
+#### Section Links
+
+Towards the bottom of the page, three large images stretch across the screen, with h2 text centered in each with flex. The entire image, as well as the text, links to its named page.
+
+#### Footer
+
+Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. 
+
+Beneath the social media links is a conventional footer list, separated into three columns. The links, which currently lead to an error page, are well-spaced to ensure that they can easily be read and interacted with.
