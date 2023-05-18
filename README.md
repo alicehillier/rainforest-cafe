@@ -121,6 +121,10 @@ The fourth and final column, 'Our Planet', depicts two howler monkeys sitting in
 
 The section link images towards the bottom of the page reflect their respective links and are consistent with the details of the restaurant's location and products. The dark filter applied to the images ensures that the text is legible and eye-catching. 
 
+#### Menu
+
+The menu page has many images, showing the user what food is served at the restaurant. The images are colourful and show fresh, healthy and natural food. The user is able to see if the food served appeals to them and what quality they should expect.
+
 ## Features
 ### Navbar
 The navbar consists of these 5 items:
