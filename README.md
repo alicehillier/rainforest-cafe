@@ -199,3 +199,7 @@ The main content of the menu page is made up of 4 containers, with 8 cards in ea
 Sitting on top of the first container is a small navbar for the menu, so the user can easily navigate to a specific section if they desire. When each link is hovered over, an underline appears, so the user can see that they can click on the link and visit that specific section.
 
 In each food/drink item card of each container, the user can see an image of the food/drink, its name, logos denoting if it is suitable for vegan, vegetarian or gluten-free diets, a short description of the meal, and its price. All content is centered in the card and has ample spacing for easy reading.
+
+### Find Us
+
+This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
