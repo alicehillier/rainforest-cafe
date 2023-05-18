@@ -101,6 +101,9 @@ I employed a consistent font across my website, which was sourced from Google Fo
 
 K2D is a sans-serif font, ensuring that it is readable and comfortable to look at. 
 
+### Imagery
+
+When selecting images for my website, I wanted to make sure that they were colourful, informative, and reflected the restaurant's theme. All images were sourced from Pexels and Unsplash.
 
 ## Features
 ### Navbar
