@@ -95,6 +95,11 @@ https://colorhunt.co/palette/064635519259f0bb62f4eea9
 
 I opted for this lighter shade as found the other green colour on the first palette to be a little dark.
 
+### Typography
+
+I employed a consistent font across my website, which was sourced from Google Fonts. 
+
+K2D is a sans-serif font, ensuring that it is readable and comfortable to look at. 
 
 
 ## Features
