@@ -125,6 +125,14 @@ The section link images towards the bottom of the page reflect their respective 
 
 The menu page has many images, showing the user what food is served at the restaurant. The images are colourful and show fresh, healthy and natural food. The user is able to see if the food served appeals to them and what quality they should expect.
 
+#### Find Us
+
+The map displayed on this page was found on Google Maps. I took a snippet of the image so that users would be able to locate the restaurant more easily.
+
+#### Book Now
+
+The background image, which extends across the full height and width of the page, shows plenty of greenery in an indoor setting. This, again, conveys the natural theme and aesthetic of the restaurant.
+
 ## Features
 ### Navbar
 The navbar consists of these 5 items:
