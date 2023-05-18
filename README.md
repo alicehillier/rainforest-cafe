@@ -203,3 +203,19 @@ In each food/drink item card of each container, the user can see an image of the
 ### Find Us
 
 This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
+
+### Book Now
+
+The booking page features a white booking form, with a plant-filled background to make it more visually appealing. 
+
+The booking form asks for relevant information from the user and requires select options, date input, a textarea and text inputs. All input fields are required and have the appropriate input type applied. The form is well-spaced and places the labels alongside their respective inputs. This reduces excessive length of the form and allows the user to review the information they input.
+
+The large 'BOOK NOW' button at the bottom of the form is centered and has inverted colours to capture the user's attention. When clicked, the 'BOOK NOW' submit button takes the user to a page which thanks them and outlines the next steps.
+
+### Error Page
+
+This page is concise and offers a more authentic experience to the user. To avoid having non-working links, the error page accepts the user's actions and responds to them. If the user were to click on a link which does not respond, it may appear to be a bug or lead the user to believe that something has gone wrong.
+
+### Thank You Page
+
+Similar to the Error Page, this page is concise and offers a more authentic experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
