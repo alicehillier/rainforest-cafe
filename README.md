@@ -78,6 +78,25 @@ To view the wireframes, please click on the links below:
 - Wireframes for tablet
 - Wireframes for mobile
 
+## Surface Plane
+After establishing the content of the website, I began putting together the aesthetics. 
+
+### Colour Scheme
+
+Given the name of the restaurant, Rainforest Cafe, I wanted to use natural colours to convey the theme. I used Color Hunt to find a suitable palette.
+
+https://colorhunt.co/palette/f2e3db41644a263a29e86a33
+
+The main colour used is the darker shade of green, #263A29, which I applied to the navbar in the header, and the social media links bar in the footer. The colour is also used for the text on a white background.
+
+The orange colour, E86A33, is used on the menu page. I alternated use of this colour and a lighter shade of green, 519259, taken from this palette:
+
+https://colorhunt.co/palette/064635519259f0bb62f4eea9
+
+I opted for this lighter shade as found the other green colour on the first palette to be a little dark.
+
+
+
 ## Features
 ### Navbar
 The navbar consists of these 5 items:
