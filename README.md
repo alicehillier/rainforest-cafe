@@ -219,3 +219,17 @@ This page is concise and offers a more authentic experience to the user. To avoi
 ### Thank You Page
 
 Similar to the Error Page, this page is concise and offers a more authentic experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
+
+## Features to be implemented in the future
+
+The following features would be an excellent means to create a fuller experience for the user:
+
+1. Add pages with full content for the footer list links.
+
+2. Add a page for recipes/tips
+
+3. Add a page about environmentally-friendly ideas or practices employed by the restaurant
+
+4. Add a FAQs page
+
+5. Add a subscription form to promote offers and engage with users
