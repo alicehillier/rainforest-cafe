@@ -224,12 +224,39 @@ Similar to the Error Page, this page is concise and offers a more authentic expe
 
 The following features would be an excellent means to create a fuller experience for the user:
 
-1. Add pages with full content for the footer list links.
+1. Use Bootstrap to implement a hamburger menu in the navbar.
 
-2. Add a page for recipes/tips
+2. Add pages with full content for the footer list links.
 
-3. Add a page about environmentally-friendly ideas or practices employed by the restaurant
+3. Add a page for recipes/tips.
 
-4. Add a FAQs page
+4. Add a page about environmentally-friendly ideas or practices employed by the restaurant.
 
-5. Add a subscription form to promote offers and engage with users
+5. Add a FAQs page.
+
+6. Add a subscription form to promote offers and engage with users.
+
+## Technologies Used
+
+### Main Languages
+
+- HTML
+- CSS
+
+### Frameworks/Libraries/Programmes Used
+
+- Google Fonts: "K2D", the font used across the entire website, was imported using Google Fonts.
+
+- Font Awesome: Social media link icons and individual letter icons for vegan, vegetarian and gluten-free items on the food menu were sourced from Font Awesome.
+
+- Visual Studio Code: I used this local editor to write and edit my code. 
+
+- Git: I committed and recorded my work using Git.
+
+- Github: I stored my work on Github and shared my project, as well as its development.
+
+- Balsamiq: I designed the wireframes for all devices using Balsamiq.
+
+- Tiny PNG: I used Tiny PNG to compress image files, in turn optimising performance.
+
+- Color Hunt: I used Color Hunt to identify appropriate colours for the website's theme.
