@@ -238,12 +238,12 @@ The following features would be an excellent means to create a fuller experience
 
 ## Technologies Used
 
-### Main Languages
+## Main Languages
 
 - HTML
 - CSS
 
-### Frameworks/Libraries/Programmes Used
+## Frameworks/Libraries/Programmes Used
 
 - Google Fonts: "K2D", the font used across the entire website, was imported using Google Fonts.
 
@@ -260,3 +260,23 @@ The following features would be an excellent means to create a fuller experience
 - Tiny PNG: I used Tiny PNG to compress image files, in turn optimising performance.
 
 - Color Hunt: I used Color Hunt to identify appropriate colours for the website's theme.
+
+## Issues and Bugs
+
+1.  On iOS mobile and tablet, the menu navigation bar on the
+    menu page did not have centered text, despite appearing centered on inspect. 
+
+2.  Issue: On iOS mobile and tablet, the user could swipe  
+    left and right to see white space. 
+
+    Solution: I applied overflow: hidden on all screen sizes, which resolved the issue.
+
+3.  Issue: On small screen sizes (approximately 300-400px),
+    not all the social media links were showing.
+
+    Solution: I doubled the height of the bar for screens up to 600px, which meant all icons were evenly-sized, evenly-spaced and visible.
+
+4.  Issue: On the 'Find Us' page, the map could not be     
+    clicked on, so the user couldn't see the interactive map or a broader view of the location.
+
+    Solution: I realised that I had placed the anchor tag within the div, around another div. So, the anchor tag was applied to the inner div, which had no properties set. I moved the anchor tag outside of the outer div, which then allowed the user to click the working link. 
