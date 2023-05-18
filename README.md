@@ -191,3 +191,11 @@ Towards the bottom of the page, three large images stretch across the screen, wi
 Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. 
 
 Beneath the social media links is a conventional footer list, separated into three columns. The links, which currently lead to an error page, are well-spaced to ensure that they can easily be read and interacted with.
+
+### Menu
+
+The main content of the menu page is made up of 4 containers, with 8 cards in each. The first card in each container displays an h2, which indicates what type of content the user should expect to see in that section. The sections are well-defined, using alternating colours to indicate to the user when they are looking at a different section.
+
+Sitting on top of the first container is a small navbar for the menu, so the user can easily navigate to a specific section if they desire. When each link is hovered over, an underline appears, so the user can see that they can click on the link and visit that specific section.
+
+In each food/drink item card of each container, the user can see an image of the food/drink, its name, logos denoting if it is suitable for vegan, vegetarian or gluten-free diets, a short description of the meal, and its price. All content is centered in the card and has ample spacing for easy reading.
