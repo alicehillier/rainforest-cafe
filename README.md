@@ -105,6 +105,22 @@ K2D is a sans-serif font, ensuring that it is readable and comfortable to look a
 
 When selecting images for my website, I wanted to make sure that they were colourful, informative, and reflected the restaurant's theme. All images were sourced from Pexels and Unsplash.
 
+#### Homepage
+
+The hero image on the homepage is the user's first look at what the restaurant has to offer. The image conveys the theme of the restaurant well, showing greenery, colourful healthy food and a sophisticated set up styled with natural materials.
+
+The About Us section, which is made up of four columns, gives the user a clear idea of what is special about the restaurant. 
+
+The first column, 'Our Food', shows a selection of fresh and colourful fruits. This suggests to the user that the food offered is natural and healthy.
+
+The second column, 'Our Environment', shows an outdoor dining setting. With plenty of greenery, wooden beams, warm lighting and elegant dining furniture, the user is intended to feel as though they are in a garden, a world away from city life.
+
+The third column, 'Our Partners', shows fresh fruit growing on a tree. This, again, suggests to the user that the ingredients used by the restaurant are fresh and natural. 
+
+The fourth and final column, 'Our Planet', depicts two howler monkeys sitting in a tree. This suggests to the user that the restaurant is related to, and cares about, the natural world. This is an encouraging message as it reassures potential diners that the restaurant is not only good for them, but for the environment too.
+
+The section link images towards the bottom of the page reflect their respective links and are consistent with the details of the restaurant's location and products. The dark filter applied to the images ensures that the text is legible and eye-catching. 
+
 ## Features
 ### Navbar
 The navbar consists of these 5 items:
