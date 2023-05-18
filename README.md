@@ -158,7 +158,7 @@ The background image, which extends across the full height and width of the page
 
 #### Navbar
 
-The navbar is fixed to the top of the screen and extends across the entire width of the page. On smaller devices, the navbar doubles in length in order to allow ample space between links. This limits the opportunity for accidentally pressing links.
+The navbar is fixed to the top of the screen and extends across the entire width of the page. On smaller devices, the navbar doubles in length in order to allow ample space between links. This limits the opportunity for accidentally pressing links. The name of the page currently being viewed is underlined, so users won't become lost.
 
 The navbar consists of these 5 links:
 
