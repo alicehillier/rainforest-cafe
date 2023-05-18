@@ -304,7 +304,7 @@ The following features would be an excellent means to create a fuller experience
 3.  Issue: On small screen sizes (approximately 300-400px),
     not all the social media links were showing.
 
-    Solution: I doubled the height of the bar for screens up to 600px, which meant all icons were evenly-sized, evenly-spaced and visible.
+    Solution: I doubled the height of the bar and adjusted the width of the icons for screens up to 600px, which meant all icons were evenly-sized, evenly-spaced and visible.
 
 4.  Issue: On the 'Find Us' page, the map could not be     
     clicked on, so the user couldn't see the interactive map or a broader view of the location.
