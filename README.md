@@ -1,6 +1,34 @@
 Visit my website here: https://alicehillier.github.io/rainforest-cafe/
 
 
+1. Introduction
+
+2. UX Design
+    i. Strategy Plane
+    ii. Scope Plane
+    iii. Structure Plane
+    iv. Skeleton Plane/Wireframes
+    v. Surface Plane
+
+3. Features
+    i. Existing Features
+    ii. Features to be implemented in the future
+
+4. Technology Used
+    i. Main Languages
+    ii. Frameworks, Libraries and Programmes
+
+5. Issues and Bugs
+
+6. Deployment
+
+7. Testing
+
+8. Credits
+
+9. Acknowledgements
+
+
 ## Introduction
 
 Welcome to Rainforest Cafe’s website! Located in the heart of London’s Soho district, we’ve brought a little piece of the rainforest to one of the world’s busiest cities. Relax in our plant-filled cafe, or soak up the sun in our tropical garden. Feast on our naturally delicious treats and feel good for doing good, by dining with a sustainable and fairtrade business.
