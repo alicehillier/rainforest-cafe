@@ -136,14 +136,14 @@ p {
     margin-bottom: 6rem;
     padding: 0;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 1;
 }
 
 .visit-box {
     height: 300px;
     width: 100%;
     margin: 0 auto;
-    border: 0.5px solid #263A29;
+    object-fit: cover;
 }
 
 .visit-box-title {
@@ -153,27 +153,6 @@ p {
     font-weight: 600;
     background-color: white;
     color: #263A29;
-    border: 0.5px solid #263A29;
-}
-
-.visit-box.first-box {
-    background: url('../images/visit-box-fruit.jpg') no-repeat center center;
-    background-size: cover;
-}
-
-.visit-box.second-box {
-    background: url('../images/visit-box-cafe.jpg') no-repeat center center;
-    background-size: cover;
-}
-
-.visit-box.third-box {
-    background: url('../images/visit-box-farm.jpg') no-repeat center center;
-    background-size: cover;
-}
-
-.visit-box.fourth-box {
-    background: url('../images/visit-box-monkeys.jpg') no-repeat center center;
-    background-size: cover;
 }
 
 .box-text {
