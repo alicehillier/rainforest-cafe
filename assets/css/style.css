@@ -70,7 +70,7 @@ a {
 }
 
 .hero-image {
-    height: 750px;
+    height: 100%;
     width: 100%;
     margin-bottom: 4rem;
     animation-name: hero-image-zoom;
@@ -169,7 +169,7 @@ p {
 }
 
 .section-link:not(:first-of-type) {
-    margin-top:1rem;
+    margin-top: 1rem;
 }
 
 .section-link a {
@@ -560,7 +560,7 @@ textarea {
 }
 
 .message-heading {
-    font-size:4rem;
+    font-size: 4rem;
     color: #263A29;
     text-align: center;
 }
@@ -641,6 +641,10 @@ textarea {
         column-count: 1;
     }
 
+    .hero-image {
+        margin-top: 5rem;
+    }
+
     .why-visit {
         column-count: 1;
     }
@@ -683,6 +687,13 @@ textarea {
 }
 
 @media only screen and (max-width: 768px) {
+
+    /* Homepage Media Queries up to 768px */
+
+    .hero-image {
+        margin-top: 10rem;
+        margin-bottom: 0;
+    }
 
     /* Book Now Page Media Queries up to 768px*/
 
