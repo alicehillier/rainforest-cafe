@@ -239,10 +239,6 @@ footer {
     margin: 0 1rem;
 }
 
-.social-media-links i:last-of-type {
-    margin-right: 2rem;
-}
-
 .social-media-links i:hover {
     transform: scale(1.5);
 }
