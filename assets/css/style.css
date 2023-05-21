@@ -468,7 +468,7 @@ hr {
     height: 100%;
     background: url('../images/plants-background.jpg') no-repeat center center;
     background-size: cover;
-    padding: 6rem 0;
+    padding: 0;
     margin-top: 4rem;
 }
 
