@@ -312,6 +312,10 @@ The following features would be an excellent means to create a fuller experience
 
     Solution: I tested a few properties in CSS, including object-fit. I ruled out which ones didn't work, such as 'contain' and 'fill', and found that 'object-fit: cover;' gave me the desired result.
 
+6.  Issue: Loading times were very slow, particularly on the menu page.
+
+    Solution: I asked my peers for feedback on Slack, and one of them recommended I use the "loading=lazy" attribute to improve the experience. I applied this attribute to all images in the About Us section on the homepage and all images on the Menu page, which seems to have improved the loading times.
+
 ## Deployment
 
 ## Testing
