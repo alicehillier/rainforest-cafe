@@ -349,6 +349,7 @@ footer ul li a {
     height: 350px;
     width: 100%;
     margin-bottom: 2rem;
+    padding-bottom: 1rem;
     background-color: white;
     border: 1px solid #263A29;
 }
@@ -766,6 +767,10 @@ textarea {
     #desserts,
     #drinks {
         column-count: 1;
+    }
+
+    .menu-item-card {
+        height: 100%;
     }
 
     /* Find Us Page Media Queries up to 600px*/
