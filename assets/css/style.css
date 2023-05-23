@@ -160,37 +160,22 @@ p {
 
 /* Conservation Video Styles */
 
-#conservation-section {
+#our-farm-section {
     height: 100%;
-    width: 100%;
-    margin-bottom: 6rem;
-}
-
-#conservation-info,
-#conservation-video {
-    width: 100%;
-    text-align: center;
-    vertical-align: middle;
+    width: 80%;
     margin: 0 auto;
-}
-
-#conservation-info {
-    top: 0;
-    left: 0;
-    margin-bottom: 2rem;
+    margin-bottom: 6rem;
     font-size: 1.25rem;
+    text-align: center;
 }
 
-#conservation-video {
-    height: 100%;
-    top: 0;
-    right: 0;
+#our-farm-section h3 {
+    margin-bottom: 2rem;
 }
 
-iframe {
-    /* width: 560px;
-    height: 315px; */
-    object-fit: cover;
+video {
+    width: 50%;
+    margin: 0 auto;
 }
 
 /* Page Links Section Styles */
@@ -759,6 +744,14 @@ textarea {
 
     nav li:first-of-type {
         margin-left: 0;
+    }
+
+    #our-farm-section {
+        width: 100%;
+    }
+
+    video {
+        width: 100%;
     }
 
     .section-link {
