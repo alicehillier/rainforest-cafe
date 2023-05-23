@@ -209,19 +209,19 @@ video {
 }
 
 .section-1 {
-    background: url('../images/book-now-image1.jpg') no-repeat center center;
+    background: url('../images/book-now-image2.jpg') no-repeat center center;
     background-size: cover;
     background-color: #519259;
 }
 
 .section-2 {
-    background: url('../images/find-us-image1.jpg') no-repeat center center;
+    background: url('../images/find-us-image2.jpg') no-repeat center center;
     background-size: cover;
     background-color: #41644A;
 }
 
 .section-3 {
-    background: url('../images/menu-image1.jpg') no-repeat center center;
+    background: url('../images/menu-image2.jpg') no-repeat center center;
     background-size: cover;
     background-color: #519259;
 }
@@ -468,7 +468,7 @@ hr {
 
 #form-section {
     height: 100%;
-    background: url('../images/plants-background.jpg') no-repeat center center;
+    background: url('../images/plants-background1.jpg') no-repeat center center;
     background-size: cover;
     padding: 0;
     margin-top: 4rem;
