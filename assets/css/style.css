@@ -669,6 +669,14 @@ textarea {
         font-size: 1.5rem;
     }
 
+    #our-farm-section {
+        width: 100%;
+    }
+
+    video {
+        width: 100%;
+    }
+
     .section-link {
         column-count: 1;
     }
@@ -749,14 +757,6 @@ textarea {
 
     nav li:first-of-type {
         margin-left: 0;
-    }
-
-    #our-farm-section {
-        width: 100%;
-    }
-
-    video {
-        width: 100%;
     }
 
     .section-link {
