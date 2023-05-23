@@ -651,6 +651,10 @@ textarea {
         column-count: 1;
     }
 
+    .visit-box {
+        height: min-content;
+    }
+
     .visit-box-title {
         font-size: 3rem;
     }
