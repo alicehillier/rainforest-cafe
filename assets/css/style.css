@@ -276,26 +276,6 @@ footer {
     transform: scale(1.5);
 }
 
-.footer-list {
-    display: block;
-    column-count: 3;
-    padding: 2rem;
-    text-align: center;
-}
-
-.footer-list ul {
-    list-style-type: none;
-    padding-top: 2rem;
-}
-
-.footer-list ul li {
-    padding: 0.75rem 0;
-}
-
-footer ul li a {
-    color: #263A29;
-}
-
 /* Menu Page */
 
 .top-buffer {
@@ -789,10 +769,6 @@ textarea {
 
     .social-media-links i {
         width: 33%;
-    }
-
-    .footer-list {
-        column-count: 1;
     }
 
     /* Menu Page Media Queries up to 600px*/
