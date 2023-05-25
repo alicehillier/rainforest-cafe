@@ -203,7 +203,7 @@ video {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 4rem;
+    font-size: 2rem;
     font-weight: 1000;
     text-transform: uppercase;
     color: white;
@@ -541,14 +541,15 @@ textarea {
 
 .button-wrapper {
     height: 3rem;
-    width: 25%;
+    width: 100%;
+    text-align: center;
     margin: 3rem auto;
     margin-bottom: 2rem;
 }
 
 #submit {
     height: 100%;
-    width: 100%;
+    width: 25%;
     padding: 1rem;
     background-color: #263A29;
     border: 0.5px solid #263A29;
@@ -605,16 +606,10 @@ textarea {
         grid-template-columns: 1fr 1fr;
     }
 
-    .section-link-grid {
-        column-count: 1;
-        grid-template-columns: 1fr;
-        grid-template-rows: auto;
-    }
-
     /* Find Us Page Media Queries up to 1200px */
 
     .top-buffer {
-        padding-top: 15rem;
+        padding-top: 12rem;
     }
 
     .map-and-address {
@@ -631,7 +626,7 @@ textarea {
     /* Book Now Page Media Queries up to 1200px */
 
     #form-section {
-        padding-top: 6rem;
+        padding-top: 10rem;
     }
 
     form,
@@ -641,7 +636,7 @@ textarea {
     }
 
     #form-section h2 {
-        padding: 3rem;
+        padding: 2rem;
     }
 }
 
@@ -692,9 +687,10 @@ textarea {
         width: 100%;
     }
 
+    /* 
     .section-link {
         column-count: 1;
-    }
+    } */
 
     /* Menu Page Media Queries up to 992px*/
 
@@ -727,14 +723,9 @@ textarea {
         width: 100%;
     }
 
-    .section-link-grid {
-        row-gap: 0.5rem;
-    }
-
     /* Book Now Page Media Queries up to 768px*/
 
     #form-section {
-        padding-top: 10rem;
         padding-bottom: 0;
         margin: 0;
     }
@@ -785,6 +776,10 @@ textarea {
         margin-left: 0;
     }
 
+    .page-title {
+        font-size: 2rem;
+    }
+
     #welcome p {
         width: 90%;
         font-size: 1.5rem;
@@ -796,13 +791,19 @@ textarea {
         width: 90%;
     }
 
-    .visit-box-title,
-    .section-link h2 {
+    .visit-box-title {
         font-size: 2rem;
     }
 
     .farm-section-container {
         margin-top: 0;
+    }
+
+    .section-link-grid {
+        column-count: 1;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        row-gap: 0.5rem;
     }
 
     .social-media-links {
@@ -829,6 +830,12 @@ textarea {
     /* Find Us Page Media Queries up to 600px*/
 
     .map-and-address {
+        width: 100%;
+    }
+
+    /* Book Now Page Media Queries up to 600px*/
+
+    #submit {
         width: 100%;
     }
 }
