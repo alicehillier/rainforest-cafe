@@ -229,7 +229,7 @@ video {
 }
 
 footer {
-    position: relative;
+    position:relative;
     bottom: 0;
     width: 100%;
     padding: 0;
@@ -256,6 +256,7 @@ footer {
 
 .social-media-links i:hover {
     transform: scale(1.5);
+    line-height: 3rem;
 }
 
 /* Menu Page */
