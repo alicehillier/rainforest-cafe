@@ -261,7 +261,7 @@ footer {
 /* Menu Page */
 
 .top-buffer {
-    padding-top: 10rem;
+    padding-top: 6rem;
 }
 
 #menu {
@@ -281,7 +281,6 @@ footer {
     vertical-align: middle;
     width: 80%;
     margin: 0 auto;
-    margin-top: 4rem;
     display: inline-block;
     column-count: 4;
     column-gap: 0;
@@ -413,7 +412,6 @@ footer {
     height: 100%;
     width: 80%;
     margin: 0 auto;
-    margin-top: 4rem;
     display: grid;
     column-count: 2;
     grid-template-columns: 1fr 1fr;
@@ -784,7 +782,7 @@ textarea {
     }
 
     p {
-        width: 90%;
+        width: 100%;
     }
 
     .visit-box-title {
