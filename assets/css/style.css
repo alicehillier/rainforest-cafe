@@ -88,16 +88,7 @@ a {
     }
 }
 
-/* h2 {
-    width: 50%;
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin: 0 auto;
-    text-align: center;
-    padding: 2rem 0;
-    clear: both;
-} */
-
+.homepage-title,
 .page-title,
 .booking-title {
     width: 50%;
@@ -341,12 +332,12 @@ footer {
 
 #starters,
 #desserts {
-    background-color: #519259;
+    background-color: #68bf72;
 }
 
 #mains,
 #drinks {
-    background-color: #E86A33;
+    background-color: #e18158;
 }
 
 /* Menu: Cards Layout */
@@ -780,7 +771,8 @@ textarea {
         margin-left: 0;
     }
 
-    .page-title {
+    .homepage-title,
+    .booking-title {
         font-size: 2rem;
     }
 
@@ -821,16 +813,12 @@ textarea {
     /* Menu Page Media Queries up to 600px*/
 
     .top-buffer {
-        padding: 0;
-    }
-
-    .menu-nav {
-        padding-top: 2rem;
-        height: 200%;
+        padding: 2rem;
     }
 
     .page-title {
         visibility: hidden;
+        height: 0;
     }
 
     #starters,
