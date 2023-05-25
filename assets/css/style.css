@@ -88,26 +88,21 @@ a {
     }
 }
 
-h2 {
-    width: 50%;
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin: 0 auto;
-    text-align: center;
-    padding: 2rem 0;
-    clear: both;
-}
-
 .page-title {
+    width: 50%;
+    font-weight: 600;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2rem 0;
     background-color: white;
     color: #263A29;
     font-size: 4rem;
 }
 
 #welcome p {
-    width: 75%;
+    width: 80%;
     margin: 2rem auto;
-    padding: 2rem;
+    margin-bottom: 4rem;
     text-align: center;
     font-size: 2rem;
 }
@@ -141,18 +136,16 @@ p {
 }
 
 .visit-box-title {
-    height: 10%;
     width: 100%;
     padding: 1rem;
     text-align: center;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     font-weight: 600;
     background-color: white;
     color: #263A29;
 }
 
 .visit-box-text {
-    height: 50%;
     width: 100%;
     padding: 1rem;
     text-align: center;
@@ -163,7 +156,7 @@ p {
 .farm-section-container {
     height: 100%;
     width: 80%;
-    margin: 0 auto;
+    margin: 2rem auto;
     text-align: center;
 }
 
