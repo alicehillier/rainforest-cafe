@@ -98,7 +98,8 @@ a {
     clear: both;
 } */
 
-.page-title {
+.page-title,
+.booking-title {
     width: 50%;
     font-weight: 600;
     text-align: center;
@@ -161,7 +162,7 @@ p {
     text-align: center;
 }
 
-/* Conservation Video Styles */
+/* Our Farm Section Styles */
 
 .farm-section-container {
     height: 100%;
@@ -818,6 +819,19 @@ textarea {
     }
 
     /* Menu Page Media Queries up to 600px*/
+
+    .top-buffer {
+        padding: 0;
+    }
+
+    .menu-nav {
+        padding-top: 2rem;
+        height: 200%;
+    }
+
+    .page-title {
+        visibility: hidden;
+    }
 
     #starters,
     #mains,
