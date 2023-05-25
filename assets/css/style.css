@@ -179,7 +179,7 @@ video {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.section-link-grid:hover .section-link:not(:hover) {
+.section-link:hover {
     opacity: 0.5;
 }
 
