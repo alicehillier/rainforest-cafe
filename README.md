@@ -2,32 +2,41 @@
 
 [Visit my website here](https://alicehillier.github.io/rainforest-cafe/)
 
-1. [Introduction](https://alicehillier.github.io/rainforest-cafe/#introduction)
+1. [Introduction](https://github.com/alicehillier/rainforest-cafe/#introduction)
 
-2. UX Design
-    i. Strategy Plane
-    ii. Scope Plane
-    iii. Structure Plane
-    iv. Skeleton Plane/Wireframes
-    v. Surface Plane
+2. [UX Design](https://github.com/alicehillier/rainforest-cafe/#ux-design)
 
-3. Features
-    i. Existing Features
-    ii. Features to be implemented in the future
+    i. [Strategy Plane](https://github.com/alicehillier/rainforest-cafe/#strategy-plane)
 
-4. Technology Used
-    i. Main Languages
-    ii. Frameworks, Libraries and Programmes
+    ii. [Scope Plane](https://github.com/alicehillier/rainforest-cafe/#scope-plane)
+    
+    iii. [Structure Plane](https://github.com/alicehillier/rainforest-cafe/#structure-plane)
 
-5. Issues and Bugs
+    iv. [Skeleton Plane/Wireframes](https://github.com/alicehillier/rainforest-cafe/#wireframes)
 
-6. Deployment
+    v. [Surface Plane](https://github.com/alicehillier/rainforest-cafe/#surface-plane)
 
-7. Testing
+3. [Features](https://github.com/alicehillier/rainforest-cafe/#features)
 
-8. Credits
+    i. [Existing Features](https://github.com/alicehillier/rainforest-cafe/#existing-features)
 
-9. Acknowledgements
+    ii. [Features to be implemented in the future](https://github.com/alicehillier/rainforest-cafe/#features-to-be-implemented-in-the-future)
+
+4. [Technology Used](https://github.com/alicehillier/rainforest-cafe/#technology-used)
+
+    i. [Main Languages](https://github.com/alicehillier/rainforest-cafe/#main-languages)
+
+    ii. [Frameworks, Libraries and Programmes](https://github.com/alicehillier/rainforest-cafe/#frameworks-,-libraries-and-programmes)
+
+5. [Issues and Bugs](https://github.com/alicehillier/rainforest-cafe/#issues-and-bugs)
+
+6. [Deployment](https://github.com/alicehillier/rainforest-cafe/#deployment)
+
+7. [Testing](https://github.com/alicehillier/rainforest-cafe/#testing)
+
+8. [Credits](https://github.com/alicehillier/rainforest-cafe/#credits)
+
+9. [Acknowledgements](https://github.com/alicehillier/rainforest-cafe/#acknowledgements)
 
 
 ## **Introduction**
