@@ -12,7 +12,7 @@
     
     iii. [Structure Plane](https://github.com/alicehillier/rainforest-cafe/#structure-plane)
 
-    iv. [Skeleton Plane/Wireframes](https://github.com/alicehillier/rainforest-cafe/#wireframes)
+    iv. [Skeleton Plane/Wireframes](https://github.com/alicehillier/rainforest-cafe/#skeleton-plane-/-wireframes)
 
     v. [Surface Plane](https://github.com/alicehillier/rainforest-cafe/#surface-plane)
 
