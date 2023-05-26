@@ -231,8 +231,6 @@ Towards the bottom of the page, three large images stretch across the screen, wi
 
 Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. 
 
-Beneath the social media links is a conventional footer list, separated into three columns. The links, which currently lead to an error page, are well-spaced to ensure that they can easily be read and interacted with.
-
 ### **Menu**
 
 The main content of the menu page is made up of 4 containers, with 8 cards in each. The first card in each container displays an h2, which indicates what type of content the user should expect to see in that section. The sections are well-defined, using alternating colours to indicate to the user when they are looking at a different section.
@@ -257,7 +255,7 @@ The large 'BOOK NOW' button at the bottom of the form is centered and has invert
 
 Similar to the Error Page, this page is concise and offers a more authentic experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
 
-## **Features to be implemented in the future**
+### **Features to be implemented in the future**
 
 The following features would be an excellent means to create a fuller experience for the user:
 
@@ -275,12 +273,12 @@ The following features would be an excellent means to create a fuller experience
 
 ## **Technologies Used**
 
-## **Main Languages**
+### **Main Languages**
 
 - HTML
 - CSS
 
-## **Frameworks/Libraries/Programmes Used**
+### **Frameworks/Libraries/Programmes Used**
 
 - Google Fonts: "K2D", the font used across the entire website, was imported using Google Fonts.
 
