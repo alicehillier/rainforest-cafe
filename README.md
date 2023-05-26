@@ -253,10 +253,6 @@ The booking form asks for relevant information from the user and requires select
 
 The large 'BOOK NOW' button at the bottom of the form is centered and has inverted colours to capture the user's attention. When clicked, the 'BOOK NOW' submit button takes the user to a page which thanks them and outlines the next steps.
 
-### **Error Page**
-
-This page is concise and offers a more authentic experience to the user. To avoid having non-working links, the error page accepts the user's actions and responds to them. If the user were to click on a link which does not respond, it may appear to be a bug or lead the user to believe that something has gone wrong.
-
 ### **Thank You Page**
 
 Similar to the Error Page, this page is concise and offers a more authentic experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
@@ -342,3 +338,5 @@ The following features would be an excellent means to create a fuller experience
 - My mentor, Oluwaseun Owonikoko, for her patience, support and consistent constructive feedback.
 - My peers, for their continued support and advice.
 - My husband, Norman, for his constant encouragement and for testing the website regularly.
+
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
