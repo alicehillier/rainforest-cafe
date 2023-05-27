@@ -360,22 +360,18 @@ By cloning a GitHub Repository you can create a local copy on your computer of t
 7. Type git clone, and then paste the URL you copied in Step 4.
 
 ```
-{
     $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-}
 ```
 
 - Press Enter. Your local clone will be created.
 
 ```
-{
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
-}
 ```
 
 Changes made on the local machine (cloned repository) can be pushed to the upstream repository directly if you have a write access for the repository. Otherwise, the changes made in the cloned repository are first pushed to the forked repository, and then a pull request is created.
