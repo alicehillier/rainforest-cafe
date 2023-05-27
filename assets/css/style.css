@@ -229,7 +229,7 @@ video {
 }
 
 footer {
-    position:relative;
+    position: relative;
     bottom: 0;
     width: 100%;
     padding: 0;
@@ -620,6 +620,10 @@ textarea {
 
     .map {
         height: 300px;
+    }
+
+    .address-details {
+        margin-top: 2rem;
     }
 
     /* Book Now Page Media Queries up to 1200px */
