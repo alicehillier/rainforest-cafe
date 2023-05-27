@@ -689,12 +689,7 @@ textarea {
     video {
         width: 100%;
     }
-
-    /* 
-    .section-link {
-        column-count: 1;
-    } */
-
+    
     /* Menu Page Media Queries up to 992px*/
 
     .menu-nav {
@@ -815,7 +810,7 @@ textarea {
     }
 
     .social-media-links i {
-        width: 33%;
+        width: 20%;
     }
 
     /* Menu Page Media Queries up to 600px*/
