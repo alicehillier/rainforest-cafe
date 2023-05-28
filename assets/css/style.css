@@ -966,6 +966,10 @@ textarea {
 
     /* Book Now Page Media Queries up to 600px*/
 
+    input, select {
+        height:2rem;
+    }
+
     #submit {
         width: 100%;
     }
