@@ -464,6 +464,8 @@ hr {
 }
 
 .opening-hours-list {
+    width: 100%;
+    margin: 0;
     padding-top: 1rem;
     display: grid;
     column-count: 2;
@@ -471,17 +473,18 @@ hr {
 }
 
 .opening-hours-list p {
-    width: 50%;
-    margin-left:50%;
+    width: 100%;
+    margin: 0;
     text-align: center;
-    padding: 1rem;
+    padding: 1rem 0.5rem;
     padding-bottom: 0;
 }
 
 .open-from-to {
-    width: 50%;
+    width: 100%;
+    margin: 0;
     text-align: center;
-    padding: 1rem;
+    padding: 1rem 0.5rem;
     padding-bottom: 0;
 }
 
@@ -599,15 +602,15 @@ textarea {
 
 /* Media Queries */
 
-/* @media only screen and (min-width:1201px) {
+@media only screen and (min-width:1201px) {
 
-    #welcome,
-    #visit,
-    #section-link-section {
-        width: 80%;
-        margin: 0 auto;
+    .opening-hours-list p,
+    .open-from-to {
+        width: 100%;
+        margin: 0;
     }
-} */
+}
+
 
 @media only screen and (max-width: 1200px) {
 
@@ -669,6 +672,15 @@ textarea {
 
     .address-details {
         margin-top: 2rem;
+    }
+
+    .opening-hours-list p,
+    .open-from-to {
+        width: 40%;
+    }
+
+    .opening-hours-list p {
+        margin-left: 60%;
     }
 
     /* Book Now Page Media Queries up to 1200px */
@@ -734,7 +746,17 @@ textarea {
     video {
         width: 100%;
     }
+}
 
+/* Find Us Page Media Queries up to 990px */
+
+.opening-hours-list p,
+.open-from-to {
+    width: 50%;
+}
+
+.opening-hours-list p {
+    margin-left: 50%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -751,6 +773,17 @@ textarea {
     .farm-section-container,
     .section-link-grid {
         width: 100%;
+    }
+
+    /*Find Us Page Media Queries up to 768px*/
+
+    .opening-hours-list p,
+    .open-from-to {
+        width: 60%;
+    }
+
+    .opening-hours-list p {
+        margin-left: 40%;
     }
 
     /* Menu Page Media Queries up to 768px*/
@@ -886,6 +919,15 @@ textarea {
 
     .map-and-address {
         width: 100%;
+    }
+
+    .opening-hours-list p,
+    .open-from-to {
+        width: 80%;
+    }
+
+    .opening-hours-list p {
+        margin-left: 20%;
     }
 
     /* Book Now Page Media Queries up to 600px*/
