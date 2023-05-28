@@ -265,7 +265,7 @@ The following features would be an excellent means to create a fuller experience
 
 1. Use Bootstrap to implement a hamburger menu in the navbar.
 
-2. Add pages with full content for the footer list links.
+2. Add footer links and their respective pages.
 
 3. Add a page for recipes/tips.
 
@@ -284,7 +284,13 @@ The following features would be an excellent means to create a fuller experience
 
 ### **Frameworks/Libraries/Programmes Used**
 
-- Google Fonts: "K2D", the font used across the entire website, was imported using Google Fonts.
+- W3Schools: Used to validate HTML and CSS documents, and to look for ideas and guidance about how to implement my designs.
+
+- MDN Web Docs: Used to look for ideas and guidance about how to implement my designs.
+
+- Unsplash and Pexels: All images and the video on the homepage were sourced from these websites.
+
+- Google Fonts: "K2D", the font used across the entire website, was sourced from Google Fonts.
 
 - Font Awesome: Social media link icons and individual letter icons for vegan, vegetarian and gluten-free items on the food menu were sourced from Font Awesome.
 
@@ -292,9 +298,9 @@ The following features would be an excellent means to create a fuller experience
 
 - Git: I committed and recorded my work using Git.
 
-- Github: I stored my work on Github and shared my project, as well as its development.
+- Github: I stored my work on Github and shared my project, as well as its record of development.
 
-- Balsamiq: I designed the wireframes for all devices using Balsamiq.
+- Balsamiq: I designed the low-fidelity wireframes for all devices using Balsamiq.
 
 - Tiny PNG: I used Tiny PNG to compress image files, in turn optimising performance.
 
@@ -324,6 +330,10 @@ The following features would be an excellent means to create a fuller experience
 6.  Issue: Loading times were very slow, particularly on the menu page.
 
     Solution: I asked my peers for feedback on Slack, and one of them recommended I use the "loading=lazy" attribute to improve the experience. I applied this attribute to all images in the About Us section on the homepage and all images on the Menu page, which seems to have improved the loading times.
+
+### Unresolved Issues and Bugs
+
+1. On smaller screens, the homepage has white space on all sides when dragged. This does not appear to happen on the other pages, so this may be due to the scale animation used for the hero image.
 
 ## **Deployment**
 
