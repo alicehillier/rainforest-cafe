@@ -357,6 +357,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 3rem;
 }
 
 .menu-item-image {
@@ -870,7 +871,7 @@ textarea {
     }
 
     .menu-item-card h2 {
-        font-size:
+        font-size: 2rem;
     }
 
     /* Find Us Page Media Queries up to 600px*/
