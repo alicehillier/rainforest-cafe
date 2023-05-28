@@ -627,7 +627,9 @@ textarea {
 @media only screen and (min-width:1201px) {
 
     #myBtn {
-        right: 4%;
+        width: 3.5rem;
+        font-size: 2rem;
+        right: 4rem;
     }
 
     /* Find Us Page Media Queries 1200px and up*/
