@@ -312,7 +312,7 @@ The following features would be an excellent means to create a fuller experience
 
 2.  Issue: On a physical iOS mobile and tablet, the user could swipe left and right to see white space. 
 
-    Solution: I applied overflow: hidden on all screen sizes, which resolved the issue.
+    Solution: I removed the animation for the hero image on the homepage and the whitespace was no longer visible.
 
 3.  Issue: On small screen sizes (approximately 300-400px), not all the social media links were showing.
 
