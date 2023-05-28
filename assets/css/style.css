@@ -851,16 +851,17 @@ textarea {
         height: 0;
     }
 
-    /* #starters,
+    #starters,
     #mains,
     #desserts,
     #drinks {
         column-count: 1;
+        grid-template-columns: 1fr;
     }
 
     .menu-item-card {
-        height: 100%;
-    } */
+        height: 400px;
+    }
 
     /* Find Us Page Media Queries up to 600px*/
 
