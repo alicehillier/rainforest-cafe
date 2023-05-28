@@ -147,7 +147,7 @@ Given the theme of the restaurant, I wanted to use natural colours. I used Color
 
 ##### [Palette 1](https://colorhunt.co/palette/f2e3db41644a263a29e86a33)
 
-![Palette 1](assets\images\color-hunt-palette-1-colours.png)
+![Palette 1](assets/images/color-hunt-palette-1-colours.png)
 
 The primary colour used across the website is from this palette. The darker shade of green, #263A29, was applied to the navbar in the header and the social media links bar in the footer. This colour is also used for text that appears on a white background.
 
@@ -155,7 +155,7 @@ The lighter shade of green, #41644A, is used for menu navbar on the Menu page.
 
 ##### [Palette 2](https://colorhunt.co/palette/064635519259f0bb62f4eea9)
 
-![Palette 2](assets\images\color-hunt-palette-2-colours.png)
+![Palette 2](assets/images/color-hunt-palette-2-colours.png)
 
 I selected softer colours from this palette, to be used as background colours for each menu course section on the Menu page. I alternated between #519259, a lighter shade of green, and #F0BB62, a pale orange colour.
 
