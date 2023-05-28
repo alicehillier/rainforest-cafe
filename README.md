@@ -143,23 +143,23 @@ After establishing the content of the website, I began putting together the aest
 
 #### **Colour Scheme**
 
-Given the name of the restaurant, Rainforest Cafe, I wanted to use natural colours to convey the theme. I used Color Hunt to find a suitable palette.
+Given the theme of the restaurant, I wanted to use natural colours. I used Color Hunt to find a suitable palette.
 
-[Palette 1](https://colorhunt.co/palette/f2e3db41644a263a29e86a33)
+##### [Palette 1](https://colorhunt.co/palette/f2e3db41644a263a29e86a33)
 
-The main colour used is the darker shade of green, #263A29, which I applied to the navbar in the header, and the social media links bar in the footer. The colour is also used for the text on a white background.
+The primary colour used across the website is from this palette. The darker shade of green, #263A29, was applied to the navbar in the header and the social media links bar in the footer. This colour is also used for text that appears on a white background.
 
-The orange colour, E86A33, is used on the menu page. I alternated use of this colour and a lighter shade of green, 519259, taken from this palette:
+The lighter shade of green, #41644A, is used for menu navbar on the Menu page.
 
-[Palette 2](https://colorhunt.co/palette/064635519259f0bb62f4eea9)
+##### [Palette 2](https://colorhunt.co/palette/064635519259f0bb62f4eea9)
 
-I opted for this lighter shade as found the other green colour on the first palette to be a little dark.
+I selected softer colours from this palette, to be used as background colours for each menu course section on the Menu page. I alternated between #519259, a lighter shade of green, and #F0BB62, a pale orange colour.
 
 #### **Typography**
 
 I employed a consistent font across my website, which was sourced from Google Fonts. 
 
-K2D is a sans-serif font, ensuring that it is readable and comfortable to look at. 
+K2D is a sans-serif font, ensuring that it is legible and comfortable to read. 
 
 #### **Imagery**
 
