@@ -86,7 +86,7 @@ a {
     to {
         transform: scale(1);
     }
-} */ 
+} */
 
 .homepage-title,
 .page-title,
@@ -471,13 +471,16 @@ hr {
 }
 
 .opening-hours-list p {
-    text-align: right;
+    width: 50%;
+    margin-left:50%;
+    text-align: center;
     padding: 1rem;
     padding-bottom: 0;
 }
 
 .open-from-to {
-    text-align: left;
+    width: 50%;
+    text-align: center;
     padding: 1rem;
     padding-bottom: 0;
 }
@@ -860,7 +863,7 @@ textarea {
     }
 
     .menu-nav {
-        margin-top:4rem;
+        margin-top: 4rem;
     }
 
     #starters,
