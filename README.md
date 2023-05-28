@@ -207,21 +207,21 @@ The navbar is fixed to the top of the screen and extends across the entire width
 
 The navbar consists of these 5 links:
 
-1. Restaurant Name - Links to homepage
+1. Restaurant Name: Links to homepage
 
-2. Home - Links to homepage
+2. Home: Links to homepage
 
-3. Menu - Links to a page consisting of the restaurant's entire menu, structured in clear sections with meal descriptions and prices.
+3. Menu: Links to a page consisting of the restaurant's entire menu, structured in clear sections with meal descriptions and prices.
 
-4. Find Us - Links to a page consisting of a clickable map, which takes the user to the exact location on Google Maps,the restaurant's address, telephone number and email address. 
+4. Find Us: Links to a page consisting of a clickable map, which takes the user to the exact location on Google Maps,the restaurant's address, telephone number and email address. 
 
-5. Book Now - Links to a form page, which asks for relevant details regarding users' booking. The submit button at the bottom of the form is centered and easy to identify.  
+5. Book Now: Links to a form page, which asks for relevant details regarding users' booking. The submit button at the bottom of the form is centered and easy to identify.  
 
 I chose to include only a small number of links that would have value for users and prevent them from spending too much time trying to locate the desired information.
 
 #### **Hero Image and Welcome Section**
 
-Beneath the navbar, users see the large hero image, followed by a short welcome section. The welcome section consists of the restaurant's name and a brief description of it's theme.
+Beneath the navbar, users see the large hero image, which has a zoom-out animation as the page loads. The hero image is followed by a short welcome section, which consists of the restaurant's name and a brief description of it's theme.
 
 #### **About Us**
 
@@ -229,7 +229,7 @@ Scrolling down, users see a four-column grid with the headings 'Our Food', 'Our 
 
 #### **Section Links**
 
-Towards the bottom of the page, three large images stretch across the screen, with h2 text centered in each with flex. The entire image, as well as the text, links to its named page.
+Towards the bottom of the page, a grid of three columns holds an image, evenly sized and spaced. An h2 is centered in each image. The entire image, as well as the text, links to its named page. When the user hovers over the image, its opacity is reduced, indicating that is being interacted with.
 
 #### **Footer**
 
@@ -241,23 +241,23 @@ The main content of the menu page is made up of 4 containers, with 8 cards in ea
 
 Sitting on top of the first container is a small navbar for the menu, so the user can easily navigate to a specific section if they desire. When each link is hovered over, an underline appears, so the user can see that they can click on the link and visit that specific section.
 
-In each food/drink item card of each container, the user can see an image of the food/drink, its name, logos denoting if it is suitable for vegan, vegetarian or gluten-free diets, a short description of the meal, and its price. All content is centered in the card and has ample spacing for easy reading.
+In each food/drink item card of each container, the user can see an image of the food/drink, its name, logos denoting if it is suitable for vegan, vegetarian or gluten-free diets (each with a title stating the logo's meaning), a short description of the meal, and its price. All content is centered in the card and has ample spacing for easy reading.
 
 ### **Find Us**
 
-This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
+This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location of the restaurant on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. This information is labelled with easily-identifiable and brightly-coloured icons. The address of the restaurant is labelled with a red pin icon, the phone number with an orange telephone icon, and the email address with a green envelope icon. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
 
 ### **Book Now**
 
-The booking page features a white booking form, with a plant-filled background to make it more visually appealing. 
+The booking page features a white booking form, with a simple plant background to make it more visually appealing, but not overwhelming. 
 
-The booking form asks for relevant information from the user and requires select options, date input, a textarea and text inputs. All input fields are required and have the appropriate input type applied. The form is well-spaced and places the labels alongside their respective inputs. This reduces excessive length of the form and allows the user to review the information they input.
+The booking form asks for relevant information from the user and consists of select options, a date input, a textarea and text inputs. All input fields, except for the textarea, which is a space for additional information, are required and validated. The form is well-spaced and places the labels alongside their respective inputs. This reduces excessive length of the form and allows the user to review the information they input easily before submitting their form.
 
 The large 'BOOK NOW' button at the bottom of the form is centered and has inverted colours to capture the user's attention. When clicked, the 'BOOK NOW' submit button takes the user to a page which thanks them and outlines the next steps.
 
 ### **Thank You Page**
 
-Similar to the Error Page, this page is concise and offers a more authentic experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
+This page is concise and offers a more authentic booking experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
 
 ### **Features to be implemented in the future**
 
