@@ -282,9 +282,10 @@ footer {
     vertical-align: middle;
     width: 80%;
     margin: 0 auto;
-    display: inline-block;
+    display: grid;
     column-count: 4;
     column-gap: 0;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     background-color: #41644A;
 }
 
@@ -314,21 +315,21 @@ footer {
 #desserts,
 #drinks {
     width: 80%;
-    height: 100%;
+    height: min-content;
     margin: 0 auto;
     display: grid;
     column-count: 4;
     column-gap: 2rem;
-    display: inline-block;
+    row-gap: 2rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     padding: 2rem;
-    padding-bottom: 0;
 }
 
-#mains,
+/* #mains,
 #desserts,
 #drinks {
     margin-top: 2rem;
-}
+} */
 
 #starters,
 #desserts {
@@ -343,40 +344,47 @@ footer {
 /* Menu: Cards Layout */
 
 .menu-item-card {
-    height: 350px;
+    height: 100%;
     width: 100%;
-    margin-bottom: 2rem;
-    padding-bottom: 1rem;
+    display: block;
     background-color: white;
-    /* border: 1px solid #263A29; */
 }
 
 .menu-subheading h2 {
     width: 100%;
-    position: relative;
-    top: 27.5%;
-    font-size: 3rem;
 }
 
 .menu-item-image {
-    height: 45%;
+    height: 35%;
     width: 100%;
-    overflow: hidden;
 }
 
 .menu-item-title {
+    height: 12.5%;
     width: 100%;
     font-size: 1rem;
     padding: 0.5rem;
-    padding-top: 1rem;
+    border: 2px solid red;
+}
+
+.dietary-icons {
+    height: 7.5%;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border: 2px solid yellow;
 }
 
 .icon {
+    height: min-content;
     width: 2rem;
     font-size: 0.8rem;
     display: inline;
     text-align: center;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
 }
 
 .icon:first-of-type {
@@ -384,21 +392,24 @@ footer {
 }
 
 .menu-item-description {
-    width: 80%;
-    height: 55%;
+    height: 40%;
+    width: 100%;
     margin: 0 auto;
-    height: 35%;
     font-size: 1rem;
-    padding: 0.5rem 0;
+    padding: 0.5rem;
+    border: 2px solid orange;
 }
 
-.menu-item-description span {
-    height: 10%;
+.menu-item-card span {
+    height: 5%;
     width: 100%;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     font-size: 0.8rem;
     font-weight: 600;
-    padding: 0.5rem 0;
+    border: 2px solid gray;
 }
 
 /* Menu: Cards with Images */
@@ -689,7 +700,7 @@ textarea {
     video {
         width: 100%;
     }
-    
+
     /* Menu Page Media Queries up to 992px*/
 
     .menu-nav {
@@ -824,7 +835,7 @@ textarea {
         height: 0;
     }
 
-    #starters,
+    /* #starters,
     #mains,
     #desserts,
     #drinks {
@@ -833,7 +844,7 @@ textarea {
 
     .menu-item-card {
         height: 100%;
-    }
+    } */
 
     /* Find Us Page Media Queries up to 600px*/
 
