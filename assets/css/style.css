@@ -496,7 +496,7 @@ hr {
     display: grid;
     column-count: 2;
     grid-template-columns: 1fr 1fr;
-    color: rgb(48, 48, 48);
+    color: gray;
 }
 
 .opening-hours-list p {
