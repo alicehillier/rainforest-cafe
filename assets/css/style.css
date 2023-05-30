@@ -29,6 +29,10 @@ nav {
     color: white;
 }
 
+.fa-seedling {
+    margin-right: 1rem;
+}
+
 .logo {
     float: left;
     padding-left: 3rem;
