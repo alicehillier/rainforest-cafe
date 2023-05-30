@@ -1,6 +1,6 @@
 # Rainforest Cafe
 
-[Rainforest Cafe's website displayed on various devices](/assets/images/rainforest-cafe-showcase.png)
+![Rainforest Cafe's website displayed on various devices](/assets/images/rainforest-cafe-showcase.png)
 
 [Visit my website here](https://alicehillier.github.io/rainforest-cafe/)
 
