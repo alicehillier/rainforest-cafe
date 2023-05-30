@@ -1,5 +1,7 @@
 # Rainforest Cafe
 
+[Rainforest Cafe's website displayed on various devices](/assets/images/rainforest-cafe-showcase.png)
+
 [Visit my website here](https://alicehillier.github.io/rainforest-cafe/)
 
 1. [Introduction](https://github.com/alicehillier/rainforest-cafe/#introduction)
