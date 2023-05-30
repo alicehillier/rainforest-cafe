@@ -141,7 +141,7 @@ p {
     object-fit: cover;
 }
 
-.visit-box-title {
+.visit-box-title, .opening-hours-title {
     width: 100%;
     padding: 1rem;
     text-align: center;
