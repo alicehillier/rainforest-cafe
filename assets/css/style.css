@@ -94,7 +94,8 @@ a {
 
 .homepage-title,
 .page-title,
-.booking-title {
+.booking-title,
+.thanks-title {
     width: 100%;
     font-weight: 600;
     text-align: center;
@@ -105,12 +106,17 @@ a {
     font-size: 4rem;
 }
 
-#welcome p {
+#welcome p,
+.message-p {
     width: 80%;
-    margin: 2rem auto;
+    margin: 0 auto;
     margin-bottom: 4rem;
     text-align: center;
     font-size: 2rem;
+}
+
+.message-p {
+    font-size: 1rem;
 }
 
 p {
@@ -141,7 +147,8 @@ p {
     object-fit: cover;
 }
 
-.visit-box-title, .opening-hours-title {
+.visit-box-title,
+.opening-hours-title {
     width: 100%;
     padding: 1rem;
     text-align: center;
@@ -265,7 +272,8 @@ footer {
 
 /* Menu Page */
 
-.top-buffer {
+.top-buffer,
+.thanks-buffer {
     padding-top: 6rem;
 }
 
@@ -611,20 +619,6 @@ textarea {
     cursor: pointer;
 }
 
-/* Form Accepted Page */
-
-.message-heading {
-    font-size: 4rem;
-    color: #263A29;
-    text-align: center;
-}
-
-.message-p {
-    width: 50%;
-    margin: 2rem auto;
-    text-align: center;
-}
-
 /* Media Queries */
 
 /* Menu Page Media Queries 1201px and up*/
@@ -693,7 +687,8 @@ textarea {
 
     /* Find Us Page Media Queries up to 1200px */
 
-    .top-buffer {
+    .top-buffer,
+    .thanks-buffer {
         padding-top: 12rem;
     }
 
@@ -884,7 +879,8 @@ textarea {
     }
 
     .homepage-title,
-    .booking-title {
+    .booking-title,
+    .thanks-title {
         font-size: 2rem;
     }
 
@@ -981,5 +977,11 @@ textarea {
 
     #submit {
         width: 100%;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .logo a {
+        line-height: 1.5rem;
     }
 }
