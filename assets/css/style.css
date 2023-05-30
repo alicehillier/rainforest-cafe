@@ -492,6 +492,7 @@ hr {
     display: grid;
     column-count: 2;
     grid-template-columns: 1fr 1fr;
+    color: gray;
 }
 
 .opening-hours-list p {
@@ -622,7 +623,7 @@ textarea {
 
 /* Media Queries */
 
-/* Menu Page Media Queries 1200px and up*/
+/* Menu Page Media Queries 1201px and up*/
 
 @media only screen and (min-width:1201px) {
 
@@ -632,12 +633,15 @@ textarea {
         right: 4rem;
     }
 
-    /* Find Us Page Media Queries 1200px and up*/
+    /* Find Us Page Media Queries 1201px and up*/
 
     .opening-hours-list p,
     .open-from-to {
-        width: 100%;
-        margin: 0;
+        width: 70%;
+    }
+
+    .opening-hours-list p {
+        margin-left: 30%;
     }
 }
 
@@ -966,8 +970,9 @@ textarea {
 
     /* Book Now Page Media Queries up to 600px*/
 
-    input, select {
-        height:2rem;
+    input,
+    select {
+        height: 2rem;
     }
 
     #submit {
