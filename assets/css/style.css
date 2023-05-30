@@ -327,7 +327,7 @@ footer {
     width: 2.5rem;
     display: none;
     position: fixed;
-    bottom: 6rem;
+    bottom: 7rem;
     right: 0.5rem;
     z-index: 99;
     outline: none;
@@ -950,7 +950,7 @@ textarea {
     }
 
     #myBtn {
-        bottom: 12rem;
+        bottom: 14rem;
     }
 
     /* Find Us Page Media Queries up to 600px*/
