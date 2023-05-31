@@ -75,22 +75,7 @@ a {
     height: 100%;
     width: 100%;
     margin-bottom: 2rem;
-    /* animation-name: hero-image-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards; */
-}
-
-/* creates the level of zoom for hero image */
-/* 
-@keyframes hero-image-zoom {
-    from {
-        transform: scale(0.7);
-    }
-
-    to {
-        transform: scale(1);
-    }
-} */
+ }
 
 .homepage-title,
 .page-title,
@@ -311,7 +296,6 @@ footer {
     width: 100%;
     list-style-type: none;
     margin: 0;
-    /* border-bottom: 2px solid white; */
 }
 
 .menu-nav li a {
@@ -364,12 +348,6 @@ footer {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     padding: 2rem;
 }
-
-/* #mains,
-#desserts,
-#drinks {
-    margin-top: 2rem;
-} */
 
 #starters,
 #desserts {
@@ -1024,9 +1002,3 @@ textarea {
         width: 100%;
     }
 }
-
-/* @media only screen and (max-width: 360px) {
-    .logo a {
-        line-height: 1.5rem;
-    }
-} */
