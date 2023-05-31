@@ -8,7 +8,7 @@
 
 ## **User Stories**
 
-### **First-Time Visitor Goal**
+### **First-Time Visitor Goals**
 
 1. I want to find out what type of food I can expect from this restaurant.
     - The homepage has an 'About Us' section, which tells the user that food offered is fresh, healthy and delicious.
@@ -32,17 +32,25 @@
     - The 'Menu' page has an additional navbar for each menu course category, enabling the user to navigate quickly to their desired section without having to scroll down.
     - The 'Menu' page also features a 'back to top' button, which reduces the need for excessive scrolling. 
 
-### **Returning Visitor Goal**
+### **Returning Visitor Goals**
 
 1. I want to see if there are any special offers.
-2. I want to see if I can book a table at my preferred location.
+    - While there are no special offers displayed on the website, the user is able to see the price of all items on the menu.
 
-## **Frequent Visitor Goal**
+2. I want to see if I can book a table at my preferred location.
+    - The 'Book Now' page contains a form, which allows the user to submit a booking request. The form only requires necessary information and is relatively short, which means the user doesn't have to apply too much effort when submitting their request.
+
+## **Frequent Visitor Goals**
 
 1. I want to see if there is a loyalty scheme.
+
 2. I want to subscribe to the newsletter for special offers and discounts.
+
 3. I want to visit the restaurant’s social media profiles to find new offers.
+    - The footer bar at the bottom of each page contains links to several social media websites. The logos are clearly displayed, equally sized and easy to interact with.
+
 4. I want to know if there are new additions to the menu.
+
 5. I want to know if I can buy any of the restaurant’s products to cook at home.
 
 ## **Manual Testing**
