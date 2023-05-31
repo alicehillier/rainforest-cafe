@@ -396,7 +396,7 @@ Changes made on the local machine (cloned repository) can be pushed to the upstr
 
 ## **Testing**
 
-[Click here to view all testing documentation](https://github.com/alicehillier/rainforest-cafe/README-testing.md)
+[Click here to view all testing documentation](https://github.com/alicehillier/rainforest-cafe/blob/main/README-testing.md)
 
 ## **Credits**
 
