@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <!-- Header Section -->
+    <!-- Start Header Section -->
     <header>
         <h1 class="logo"><a href="index.html"><i class="fa-solid fa-seedling"></i>Rainforest Cafe</a></h1>
         <nav>
@@ -25,19 +25,24 @@
             </ul>
         </nav>
     </header>
+    <!-- End Header Section -->
 
     <!-- Additional Spacing -->
     <div class="book-now-buffer"></div>
 
-    <!-- Booking Form Section -->
+    <!-- Start Booking Form Section -->
     <section id="form-section">
         <form action="form-accepted.html" method="GET">
             <h2 class="booking-title">Book A Table</h2>
             <div class="booking-details">
+
+                <!-- Booking Date -->
                 <fieldset class="container">
                     <label for="date">When would you like to visit?</label>
                     <input type="date" id="date" name="date" min="2023-06-19" required>
                 </fieldset>
+
+                <!-- Booking Time -->
                 <fieldset class="container">
                     <label for="time">What time would you like to visit?</label>
                     <select name="time" id="time" required>
@@ -59,6 +64,8 @@
                         <option value="12pm">19:00 PM</option>
                     </select>
                 </fieldset>
+
+                <!-- Number of Guests -->
                 <fieldset class="container">
                     <label for="guest-count">Number of Guests</label>
                     <select name="guest-count" id="guest-count" required>
@@ -72,6 +79,8 @@
                         <option value="7+">7+</option>
                     </select>
                 </fieldset>
+
+                <!-- User: Additional Comments -->
                 <fieldset class="container"><label for="comments">Please let us know if you, or any of your guests, have
                         special
                         dietary
@@ -81,26 +90,35 @@
                     <textarea name="comments" id="comments" cols="30" rows="10"
                         placeholder="I would like to book a table for 10 people. Someone in my party has a gluten allergy."></textarea>
                 </fieldset>
+
+                <!-- First Name -->
                 <fieldset class="container">
                     <label for="first-name">First Name</label>
                     <input type="text" name="first-name" id="first-name" placeholder="Jane" required>
                 </fieldset>
+
+                <!-- Last Name -->
                 <fieldset class="container">
                     <label for="last-name">Last Name</label>
                     <input type="text" name="last-name" id="last-name" placeholder="Doe" required>
                 </fieldset>
+
+                <!-- Email Address -->
                 <fieldset class="container">
                     <label for="email">Email Address</label>
                     <input type="email" name="email" id="email" placeholder="name@email.com" required>
                 </fieldset>
+
+                <!-- Submit Button -->
                 <div class="button-wrapper">
                     <button type="submit" name="submit" id="submit">BOOK NOW</button>
                 </div>
             </div>
         </form>
     </section>
+    <!-- End Booking Form Section -->
 
-    <!-- Footer Section -->
+    <!-- Start Footer Section -->
     <footer>
         <div class="social-media-links">
             <a href="https://facebook.com" target="_blank" title="Go to Facebook"><i
@@ -114,6 +132,9 @@
             <a href="https://youtube.com" target="_blank" title="Go to YouTube"><i class="fa-brands fa-youtube"></i></a>
         </div>
     </footer>
+    <!-- End Footer Section -->
+
+    <!-- Font Awesome Icons Link -->
     <script src="https://kit.fontawesome.com/a4e93f9a19.js" crossorigin="anonymous"></script>
 </body>
 
