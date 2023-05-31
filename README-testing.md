@@ -42,19 +42,40 @@
 
 ## **Frequent Visitor Goals**
 
-1. I want to see if there is a loyalty scheme.
-
-2. I want to subscribe to the newsletter for special offers and discounts.
+1. I want to see if there is a loyalty scheme and subscribe to the newsletter for special offers and discounts.
+    - While there is no loyalty scheme or subscription at the moment, this feature could be added in the future.
 
 3. I want to visit the restaurant’s social media profiles to find new offers.
     - The footer bar at the bottom of each page contains links to several social media websites. The logos are clearly displayed, equally sized and easy to interact with.
 
 4. I want to know if there are new additions to the menu.
+    - The 'Menu' page shows all items available on the menu. Although there are no sign-posted new additions, they would be visible on the menu.
 
 5. I want to know if I can buy any of the restaurant’s products to cook at home.
+    - While the restaurant's website does not offer this feature at the moment, this feature could be implemented in future if Rainforest Cafe had their own brand ingredients or special offerings.
 
 ## **Manual Testing**
+
+### **Homepage Testing**
+#### **Responsive Design Testing**
+
+### **Menu Page Testing**
+#### **Responsive Design Testing**
+
+### **Find Us Page Testing**
+#### **Responsive Design Testing**
+
+### **Book Now Page Testing**
+#### **Responsive Design Testing**
+#### **Book Now Form Testing**
+
+### **Form Accepted Page Testing**
+#### **Responsive Design Testing**
 
 ## **Validation and Lighthouse**
 
 ## **User Testing**
+
+## **Further Testing**
+
+This website was tested on a variety of devices, including Windows laptops, iPhone 12 Mini and iPad Air. It was also tested on different browsers, including Chrome and Safari.

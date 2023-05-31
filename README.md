@@ -98,8 +98,7 @@ As part of my research, I also conducted interviews to identify what a user want
 
 #### **Frequent Visitor Goal**
 
--	I want to see if there is a loyalty scheme
--	I want to subscribe to the newsletter for special offers and discounts
+-	I want to see if there is a loyalty scheme and subscribe to the newsletter for special offers and discounts
 -	I want to visit the restaurant’s social media profiles to find new offers
 -	I want to know if there are new additions to the menu
 -	I want to know if I can buy any of the restaurant’s products to cook at home
