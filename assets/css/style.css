@@ -345,6 +345,7 @@ footer {
 
 #myBtn:hover {
     transform: scale(1.2);
+    background-color: #41644A;
 }
 
 /* Menu Sections */
@@ -507,7 +508,7 @@ hr {
 }
 
 .opening-hours-title {
-    margin-bottom:1rem;
+    margin-bottom: 1rem;
 }
 
 .opening-hours-list {
@@ -634,6 +635,10 @@ textarea {
     color: white;
     font-size: 1rem;
     cursor: pointer;
+}
+
+#submit:hover {
+    background-color: #41644A;
 }
 
 /* Form Accepted Page */
