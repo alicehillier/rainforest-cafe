@@ -76,6 +76,16 @@
 
 ## **User Testing**
 
+1. Peer reviews indicated issues with the performance of the homepage and menu page. This was primarily due to the size of the images. A peer recommended that I apply the loading="lazy" attribute to images to mitigate this issue. 
+    - I took my peer's advice and applied the attribute, which appeared to improve the performance slightly. As I had already compressed the images, I decided to download smaller images to replace those across the website, which resolved this issue.
+2. My husband recommended that I use more hover effects on buttons and links to make the website experience more authentic. 
+    - I found that adding more effects improved User Experience and made the website appear more interactive.
+3. My mentor found the white space across the website to be excessive at times, so suggested I reduced margins to improve User Experience. 
+    - I accepted my mentor's recommendation and found that it gave the website a cleaner and more professional appearance.
+4. My mentor noticed overflow in the 'About Us' section on the homepage. As I hadn't used a grid, the content was not well-contained on smaller screens. 
+    - I re-wrote code for the section, and decided to re-write the code on the Menu page, to utilise the grid display.
+5. Final tests showed that all links were working correctly, there were no apparent bugs, and the website was easy and enjoyable to use.
+
 ## **Further Testing**
 
-This website was tested on a variety of devices, including Windows laptops, iPhone 12 Mini and iPad Air. It was also tested on different browsers, including Chrome and Safari.
+This website was tested on a variety of devices, including Windows laptops, iPhone 12 Mini and iPad Air. It was also tested on different browsers, including Google Chrome and Safari (iOS).
