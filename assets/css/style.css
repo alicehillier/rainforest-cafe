@@ -708,6 +708,7 @@ textarea {
     /* Book Now Page Media Queries up to 1200px */
     #form-section {
         padding-top: 10rem;
+        background: none;
     }
 
     form,
