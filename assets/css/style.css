@@ -239,6 +239,10 @@ video {
     margin-top: 2rem;
 }
 
+.homepage-footer-buffer {
+    height: 1rem;
+}
+
 footer {
     position: relative;
     bottom: 0;
@@ -463,6 +467,12 @@ footer {
     object-fit: cover;
 }
 
+/* Menu: Footer */
+
+.menu-footer-buffer {
+    height: 3rem;
+}
+
 /* Find Us Page */
 
 .map-and-address {
@@ -624,7 +634,6 @@ textarea {
 .thanks-footer {
     position: fixed;
     bottom: 0;
-
 }
 
 /* Media Queries */
@@ -921,6 +930,11 @@ textarea {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
         row-gap: 0.5rem;
+    }
+
+    .homepage-footer-buffer,
+    .menu-footer-buffer {
+        height: 0;
     }
 
     .social-media-links {
