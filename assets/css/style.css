@@ -619,6 +619,14 @@ textarea {
     cursor: pointer;
 }
 
+/* Form Accepted Page */
+
+.thanks-footer {
+    position: fixed;
+    bottom: 0;
+
+}
+
 /* Media Queries */
 
 /* Menu Page Media Queries 1201px and up*/
