@@ -13,7 +13,6 @@ body {
 }
 
 /* Header Styles */
-
 header {
     background-color: #263A29;
     height: 6rem;
@@ -110,7 +109,6 @@ p {
 }
 
 /* About Us Section Styles */
-
 .visit-grid {
     height: min-content;
     width: 80%;
@@ -150,7 +148,6 @@ p {
 }
 
 /* Our Farm Section Styles */
-
 .farm-section-container {
     height: 100%;
     width: 80%;
@@ -164,7 +161,6 @@ video {
 }
 
 /* Page Links Section Styles */
-
 .section-link-grid {
     height: 400px;
     width: 80%;
@@ -219,7 +215,6 @@ video {
 }
 
 /* Footer Styles */
-
 .footer-buffer {
     margin-top: 2rem;
 }
@@ -260,7 +255,6 @@ footer {
 }
 
 /* Menu Page */
-
 .top-buffer,
 .thanks-buffer {
     padding-top: 6rem;
@@ -275,7 +269,6 @@ footer {
 }
 
 /* Menu Navbar */
-
 .menu-nav {
     height: 4rem;
     line-height: 4rem;
@@ -310,7 +303,6 @@ footer {
 }
 
 /* Back to Top Button */
-
 #myBtn {
     width: 2.5rem;
     display: none;
@@ -333,7 +325,6 @@ footer {
 }
 
 /* Menu Sections */
-
 #starters,
 #mains,
 #desserts,
@@ -360,7 +351,6 @@ footer {
 }
 
 /* Menu: Cards Layout */
-
 .menu-item-card {
     height: 500px;
     width: 100%;
@@ -441,19 +431,16 @@ footer {
 }
 
 /* Menu: Cards with Images */
-
 .menu-item-image {
     object-fit: cover;
 }
 
 /* Menu: Footer */
-
 .menu-footer-buffer {
     height: 3rem;
 }
 
 /* Find Us Page */
-
 .map-and-address {
     height: 100%;
     width: 80%;
@@ -518,7 +505,6 @@ hr {
 }
 
 /* Book Now Page */
-
 .book-now-buffer {
     padding-top: 2rem;
 }
@@ -619,16 +605,13 @@ textarea {
 }
 
 /* Form Accepted Page */
-
 .thanks-footer {
     position: fixed;
     bottom: 0;
 }
 
 /* Media Queries */
-
 /* Menu Page Media Queries 1201px and up*/
-
 @media only screen and (min-width:1201px) {
 
     #myBtn {
@@ -638,7 +621,6 @@ textarea {
     }
 
     /* Find Us Page Media Queries 1201px and up*/
-
     .opening-hours-list p,
     .open-from-to {
         width: 70%;
@@ -653,7 +635,6 @@ textarea {
 @media only screen and (max-width: 1200px) {
 
     /* Homepage Media Queries up to 1200px*/
-
     .logo,
     nav {
         display: block;
@@ -672,7 +653,6 @@ textarea {
     }
 
     /* Menu Page Media Queries up to 1200px */
-
     .menu-nav {
         width: 100%;
     }
@@ -692,7 +672,6 @@ textarea {
     }
 
     /* Find Us Page Media Queries up to 1200px */
-
     .top-buffer,
     .thanks-buffer {
         padding-top: 12rem;
@@ -723,7 +702,6 @@ textarea {
     }
 
     /* Book Now Page Media Queries up to 1200px */
-
     #form-section {
         padding-top: 10rem;
     }
@@ -742,7 +720,6 @@ textarea {
 @media only screen and (max-width: 992px) {
 
     /* Homepage Media Queries up to 992px*/
-
     .nav ul {
         column-count: 1;
     }
@@ -787,7 +764,6 @@ textarea {
     }
 
     /* Find Us Page Media Queries up to 992px */
-
     .opening-hours-list p,
     .open-from-to {
         width: 50%;
@@ -801,7 +777,6 @@ textarea {
 @media only screen and (max-width: 768px) {
 
     /* Homepage Media Queries up to 768px */
-
     .hero-image {
         margin-top: 10rem;
         margin-bottom: 0;
@@ -815,7 +790,6 @@ textarea {
     }
 
     /*Find Us Page Media Queries up to 768px*/
-
     .opening-hours-list p,
     .open-from-to {
         width: 60%;
@@ -826,13 +800,11 @@ textarea {
     }
 
     /* Menu Page Media Queries up to 768px*/
-
     .menu-item-card {
         height: 500px;
     }
 
     /* Book Now Page Media Queries up to 768px*/
-
     #form-section {
         padding-bottom: 0;
         margin: 0;
@@ -860,7 +832,6 @@ textarea {
 @media only screen and (max-width: 600px) {
 
     /* Homepage Media Queries up to 600px*/
-
     .logo,
     nav {
         line-height: 3rem;
@@ -936,7 +907,6 @@ textarea {
     }
 
     /* Menu Page Media Queries up to 600px*/
-
     .top-buffer {
         padding: 2rem;
     }
@@ -973,7 +943,6 @@ textarea {
     }
 
     /* Find Us Page Media Queries up to 600px*/
-
     .map-and-address {
         width: 100%;
     }
@@ -992,7 +961,6 @@ textarea {
     }
 
     /* Book Now Page Media Queries up to 600px*/
-
     input,
     select {
         height: 2rem;
