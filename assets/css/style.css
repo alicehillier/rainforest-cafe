@@ -469,11 +469,7 @@ footer {
 
 .contact-icon {
     font-size: 1.25rem;
-}
-
-.contact-icon span {
-    padding-left: 1.25rem;
-    font-weight: 400;
+    padding-right: 1rem;
 }
 
 hr {
