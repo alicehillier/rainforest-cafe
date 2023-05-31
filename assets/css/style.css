@@ -21,6 +21,7 @@ header {
     z-index: 1;
 }
 
+/* Navbar Styles */
 .logo,
 .logo a,
 nav {
@@ -28,6 +29,7 @@ nav {
     color: white;
 }
 
+/* Logo Icon Styles */
 .fa-seedling {
     margin-right: 1rem;
 }
@@ -74,7 +76,7 @@ a {
     height: 100%;
     width: 100%;
     margin-bottom: 2rem;
- }
+}
 
 .homepage-title,
 .page-title,
@@ -90,6 +92,7 @@ a {
     font-size: 4rem;
 }
 
+/* #welcome: index.html welcome paragraph, #message: form-accepted.html paragraph Styles */
 #welcome p,
 .message-p {
     width: 80%;
@@ -350,7 +353,7 @@ footer {
     background-color: #F0BB62;
 }
 
-/* Menu: Cards Layout */
+/* Menu: Cards Styles */
 .menu-item-card {
     height: 500px;
     width: 100%;
@@ -418,6 +421,7 @@ footer {
     padding: 1rem;
 }
 
+/* Menu Item Price Styles */
 .menu-item-card span {
     height: 10%;
     width: 100%;
@@ -611,9 +615,9 @@ textarea {
 }
 
 /* Media Queries */
-/* Menu Page Media Queries 1201px and up*/
 @media only screen and (min-width:1201px) {
 
+    /* Menu Page Media Queries 1201px and up*/
     #myBtn {
         width: 3.5rem;
         font-size: 2rem;
@@ -789,6 +793,11 @@ textarea {
         width: 100%;
     }
 
+    /* Menu Page Media Queries up to 768px*/
+    .menu-item-card {
+        height: 500px;
+    }
+
     /*Find Us Page Media Queries up to 768px*/
     .opening-hours-list p,
     .open-from-to {
@@ -797,11 +806,6 @@ textarea {
 
     .opening-hours-list p {
         margin-left: 40%;
-    }
-
-    /* Menu Page Media Queries up to 768px*/
-    .menu-item-card {
-        height: 500px;
     }
 
     /* Book Now Page Media Queries up to 768px*/
