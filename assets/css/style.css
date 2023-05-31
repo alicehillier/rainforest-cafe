@@ -479,7 +479,6 @@ footer {
     height: 100%;
     width: 80%;
     margin: 0 auto;
-    padding: 1rem 0;
     display: grid;
     column-count: 2;
     grid-template-columns: 1fr 1fr;
@@ -504,13 +503,16 @@ footer {
 }
 
 hr {
-    margin: 3rem;
+    margin: 2rem;
+}
+
+.opening-hours-title {
+    margin-bottom:1rem;
 }
 
 .opening-hours-list {
     width: 100%;
     margin: 0;
-    padding-top: 1rem;
     display: grid;
     column-count: 2;
     grid-template-columns: 1fr 1fr;
@@ -521,14 +523,19 @@ hr {
     width: 100%;
     margin: 0;
     text-align: center;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 .open-from-to {
     width: 100%;
     margin: 0;
     text-align: center;
-    padding: 1rem;
+    padding: 0.5rem;
+    font-size: 1.15rem;
+}
+
+.find-us-footer-buffer {
+    height: 3rem;
 }
 
 /* Book Now Page */
@@ -930,6 +937,7 @@ textarea {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
         row-gap: 0.5rem;
+        margin-bottom: 0.5rem;
     }
 
     .homepage-footer-buffer,
@@ -995,6 +1003,10 @@ textarea {
 
     .opening-hours-list p {
         margin-left: 20%;
+    }
+
+    .find-us-footer-buffer {
+        height: 2rem;
     }
 
     /* Book Now Page Media Queries up to 600px*/
