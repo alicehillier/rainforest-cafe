@@ -56,27 +56,17 @@
 
 ## **Manual Testing**
 
-### **Homepage Testing**
+### **Homepage Responsive Design Testing**
 
-#### **Responsive Design Testing**
+### **Menu Page Responsive Design Testing**
 
-### **Menu Page Testing**
+### **Find Us Page Responsive Design Testing**
 
-#### **Responsive Design Testing**
+### **Book Now Page Responsive Design Testing**
 
-### **Find Us Page Testing**
+### **Book Now Form Testing**
 
-#### **Responsive Design Testing**
-
-### **Book Now Page Testing**
-
-#### **Responsive Design Testing**
-
-#### **Book Now Form Testing**
-
-### **Form Accepted Page Testing**
-
-#### **Responsive Design Testing**
+### **Form Accepted Page Responsive Design Testing**
 
 ## **Validation and Lighthouse**
 
