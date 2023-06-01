@@ -86,6 +86,36 @@
 
 ### **Lighthouse Testing**
 
+#### **Homepage Desktop**
+![Lighthouse results for Homepage on desktop](/rainforest-cafe-lighthouse/homepage-desktop-lighthouse-snippet.png)
+
+#### **Homepage Mobile**
+![Lighthouse results for Homepage on mobile](/rainforest-cafe-lighthouse/homepage-mobile-lighthouse-snippet.png)
+
+#### **Menu Page Desktop**
+![Lighthouse results for Menu page on desktop](/rainforest-cafe-lighthouse/menu-desktop-lighthouse-snippet.png)
+
+#### **Menu Page Mobile**
+![Lighthouse results for Menu page on mobile](/rainforest-cafe-lighthouse/menu-mobile-lighthouse-snippet.png)
+
+#### **Find Us Page Desktop**
+![Lighthouse results for Find Us page on desktop](/rainforest-cafe-lighthouse/find-us-desktop-lighthouse-snippet.png)
+
+#### **Find Us Page Mobile**
+![Lighthouse results for Find Us page on mobile](/rainforest-cafe-lighthouse/find-us-mobile-lighthouse-snippet.png)
+
+#### **Book Now Page Desktop**
+![Lighthouse results for Book Now page on desktop](/rainforest-cafe-lighthouse/book-now-desktop-lighthouse-snippet.png)
+
+#### **Book Now Page Mobile**
+![Lighthouse results for Book Now page on mobile](/rainforest-cafe-lighthouse/book-now-mobile-lighthouse-snippet.png)
+
+#### **Form Accepted Page Desktop**
+![Lighthouse results for Form Accepted page on desktop](/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse-snippet.png)
+
+#### **Form Accepted Page Mobile**
+![Lighthouse results for Form Accepted page on mobile](/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse-snippet.png)
+
 ## **User Testing**
 
 1. Peer reviews indicated issues with the performance of the homepage and menu page. This was primarily due to the size of the images. A peer recommended that I apply the loading="lazy" attribute to images to mitigate this issue. 
