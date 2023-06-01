@@ -72,7 +72,41 @@
 
 ### **HTML Validator**
 
+#### **Homepage HTML Validation Results**
+
+![Homepage HTML validation results](/rainforest-cafe-html-validator/homepage-html-validation.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-html-validator/homepage-html-validation-full-summary.png)
+
+#### **Menu Page HTML Validation Results**
+
+![Menu page HTML validation results](/rainforest-cafe-html-validator/menu-page-html-validation.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-html-validator/menu-page-html-validation-full-summary.png)
+
+#### **Find Us Page HTML Validation Results**
+
+![Find Us page HTML validation results](/rainforest-cafe-html-validator/find-us-page-html-validation.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-html-validator/find-us-page-html-validation-full-summary.png)
+
+#### **Book Now Page HTML Validation Results**
+
+![Book Now page HTML validation results](/rainforest-cafe-html-validator/book-now-page-html-validation.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-html-validator/book-now-page-html-validation-full-summary.png)
+
+#### **Form Accepted HTML Validation Results**
+
+![Form Accepted page HTML validation results](/rainforest-cafe-html-validator/form-accepted-page-html-validation.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-html-validator/form-accepted-page-html-validation-full-summary.png)
+
 ### **CSS Validator**
+
+![CSS validation results](/rainforest-cafe-html-validator/css-validation.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-html-validator/css-validation-full-summary.png)
 
 ### **Lighthouse Testing**
 
