@@ -76,7 +76,7 @@
 
 ### **Book Now Page Responsive Design Testing**
 
-[Book Now Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.gif)
+![Book Now Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.gif)
 
 [Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.mp4)
 
