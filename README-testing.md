@@ -59,21 +59,25 @@
 ### **Homepage Responsive Design Testing**
 
 [Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage.mp4)
+
 [Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.mp4)
 
 ### **Menu Page Responsive Design Testing**
 
 [Menu Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page.mp4)
+
 [Menu Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page-responsive.mp4)
 
 ### **Find Us Page Responsive Design Testing**
 
 [Find Us Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page.mp4)
+
 [Find Us Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page-responsive.mp4)
 
 ### **Book Now Page Responsive Design Testing**
 
 [Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.mp4)
+
 [Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.mp4)
 
 ### **Form Accepted Page Responsive Design Testing**
