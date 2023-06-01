@@ -58,31 +58,31 @@
 
 ### **Homepage Responsive Design Testing**
 
-[Homepage Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage.mp4)
+[Homepage Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage.gif)
 
-[Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.mp4)
+[Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.gif)
 
 ### **Menu Page Responsive Design Testing**
 
-[Menu Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page.mp4)
+[Menu Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page.gif)
 
-[Menu Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page-responsive.mp4)
+[Menu Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page-responsive.gif)
 
 ### **Find Us Page Responsive Design Testing**
 
-[Find Us Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page.mp4)
+[Find Us Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page.gif)
 
-[Find Us Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page-responsive.mp4)
+[Find Us Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page-responsive.gif)
 
 ### **Book Now Page Responsive Design Testing**
 
 ![Book Now Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.gif)
 
-[Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.mp4)
+[Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.gif)
 
 ### **Form Accepted Page Responsive Design Testing**
 
-[Form Accepted Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-form-accepted-page-responsive.mp4)
+[Form Accepted Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-form-accepted-page-responsive.gif)
 
 ## **Validation and Lighthouse**
 
