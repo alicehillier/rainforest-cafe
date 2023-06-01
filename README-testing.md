@@ -86,35 +86,55 @@
 
 ### **Lighthouse Testing**
 
-#### **Homepage Desktop**
+#### **Homepage on Desktop**
 ![Lighthouse results for Homepage on desktop](/rainforest-cafe-lighthouse/homepage-desktop-lighthouse-snippet.png)
 
-#### **Homepage Mobile**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/homepage-desktop-lighthouse.pdf)
+
+#### **Homepage on Mobile**
 ![Lighthouse results for Homepage on mobile](/rainforest-cafe-lighthouse/homepage-mobile-lighthouse-snippet.png)
 
-#### **Menu Page Desktop**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/homepage-mobile-lighthouse.pdf)
+
+#### **Menu Page on Desktop**
 ![Lighthouse results for Menu page on desktop](/rainforest-cafe-lighthouse/menu-desktop-lighthouse-snippet.png)
 
-#### **Menu Page Mobile**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/menu-desktop-lighthouse.pdf)
+
+#### **Menu Page on Mobile**
 ![Lighthouse results for Menu page on mobile](/rainforest-cafe-lighthouse/menu-mobile-lighthouse-snippet.png)
 
-#### **Find Us Page Desktop**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/menu-mobile-lighthouse.pdf)
+
+#### **Find Us Page on Desktop**
 ![Lighthouse results for Find Us page on desktop](/rainforest-cafe-lighthouse/find-us-desktop-lighthouse-snippet.png)
 
-#### **Find Us Page Mobile**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/find-us-desktop-lighthouse.pdf)
+
+#### **Find Us Page on Mobile**
 ![Lighthouse results for Find Us page on mobile](/rainforest-cafe-lighthouse/find-us-mobile-lighthouse-snippet.png)
 
-#### **Book Now Page Desktop**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/find-us-mobile-lighthouse.pdf)
+
+#### **Book Now Page on Desktop**
 ![Lighthouse results for Book Now page on desktop](/rainforest-cafe-lighthouse/book-now-desktop-lighthouse-snippet.png)
 
-#### **Book Now Page Mobile**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/book-now-desktop-lighthouse.pdf)
+
+#### **Book Now Page on Mobile**
 ![Lighthouse results for Book Now page on mobile](/rainforest-cafe-lighthouse/book-now-mobile-lighthouse-snippet.png)
 
-#### **Form Accepted Page Desktop**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/book-now-mobile-lighthouse.pdf)
+
+#### **Form Accepted Page on Desktop**
 ![Lighthouse results for Form Accepted page on desktop](/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse-snippet.png)
 
-#### **Form Accepted Page Mobile**
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse.pdf)
+
+#### **Form Accepted Page on Mobile**
 ![Lighthouse results for Form Accepted page on mobile](/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse-snippet.png)
+
+[Click here to view the full summary of results](/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse.pdf)
 
 ## **User Testing**
 
