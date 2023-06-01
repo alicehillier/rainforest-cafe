@@ -58,7 +58,7 @@
 
 ### **Homepage Responsive Design Testing**
 
-[Homepage Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage.gif)
+![Homepage Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage.gif)
 
 [Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.gif)
 
