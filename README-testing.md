@@ -58,39 +58,39 @@
 
 ### **Homepage Responsive Design Testing**
 
-![Homepage Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage.gif)
+![Homepage Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-homepage.gif)
 
-![Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.gif)
+![Homepage Responsive Design Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.gif)
 
 ---
 
 ### **Menu Page Responsive Design Testing**
 
-![Menu Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page.gif)
+![Menu Page Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-menu-page.gif)
 
-![Menu Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page-responsive.gif)
+![Menu Page Responsive Design Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-menu-page-responsive.gif)
 
 ---
 
 ### **Find Us Page Responsive Design Testing**
 
-![Find Us Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page.gif)
+![Find Us Page Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page.gif)
 
-![Find Us Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page-responsive.gif)
+![Find Us Page Responsive Design Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page-responsive.gif)
 
 ---
 
 ### **Book Now Page Responsive Design Testing**
 
-![Book Now Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.gif)
+![Book Now Page Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.gif)
 
-![Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.gif)
+![Book Now Page Responsive Design Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.gif)
 
 ---
 
 ### **Form Accepted Page Responsive Design Testing**
 
-![Form Accepted Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-form-accepted-page-responsive.gif)
+![Form Accepted Page Responsive Design Test](/assets/rainforest-cafe-testing-videos/rainforest-cafe-form-accepted-page-responsive.gif)
 
 ---
 
@@ -100,91 +100,91 @@
 
 #### **Homepage HTML Validation Results**
 
-![Homepage HTML validation results](/rainforest-cafe-html-validator/homepage-html-validation.png)
+![Homepage HTML validation results](/assets/rainforest-cafe-html-validator/homepage-html-validation.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-html-validator/homepage-html-validation-full-summary.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-html-validator/homepage-html-validation-full-summary.pdf)
 
 #### **Menu Page HTML Validation Results**
 
-![Menu page HTML validation results](/rainforest-cafe-html-validator/menu-page-html-validation.png)
+![Menu page HTML validation results](/assets/rainforest-cafe-html-validator/menu-page-html-validation.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-html-validator/menu-page-html-validation-full-summary.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-html-validator/menu-page-html-validation-full-summary.pdf)
 
 #### **Find Us Page HTML Validation Results**
 
-![Find Us page HTML validation results](/rainforest-cafe-html-validator/find-us-page-html-validation.png)
+![Find Us page HTML validation results](/assets/rainforest-cafe-html-validator/find-us-page-html-validation.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-html-validator/find-us-page-html-validation-full-summary.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-html-validator/find-us-page-html-validation-full-summary.pdf)
 
 #### **Book Now Page HTML Validation Results**
 
-![Book Now page HTML validation results](/rainforest-cafe-html-validator/book-now-page-html-validation.png)
+![Book Now page HTML validation results](/assets/rainforest-cafe-html-validator/book-now-page-html-validation.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-html-validator/book-now-page-html-validation-full-summary.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-html-validator/book-now-page-html-validation-full-summary.pdf)
 
 #### **Form Accepted HTML Validation Results**
 
-![Form Accepted page HTML validation results](/rainforest-cafe-html-validator/form-accepted-page-html-validation.png)
+![Form Accepted page HTML validation results](/assets/rainforest-cafe-html-validator/form-accepted-page-html-validation.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-html-validator/form-accepted-page-html-validation-full-summary.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-html-validator/form-accepted-page-html-validation-full-summary.pdf)
 
 ### **CSS Validator**
 
-![CSS validation results](/rainforest-cafe-html-validator/css-validation.png)
+![CSS validation results](/assets/rainforest-cafe-html-validator/css-validation.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-html-validator/css-validation-full-summary.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-html-validator/css-validation-full-summary.pdf)
 
 ### **Lighthouse Testing**
 
 #### **Homepage on Desktop**
-![Lighthouse results for Homepage on desktop](/rainforest-cafe-lighthouse/homepage-desktop-lighthouse-snippet.png)
+![Lighthouse results for Homepage on desktop](/assets/rainforest-cafe-lighthouse/homepage-desktop-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/homepage-desktop-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/homepage-desktop-lighthouse.pdf)
 
 #### **Homepage on Mobile**
-![Lighthouse results for Homepage on mobile](/rainforest-cafe-lighthouse/homepage-mobile-lighthouse-snippet.png)
+![Lighthouse results for Homepage on mobile](/assets/rainforest-cafe-lighthouse/homepage-mobile-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/homepage-mobile-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/homepage-mobile-lighthouse.pdf)
 
 #### **Menu Page on Desktop**
-![Lighthouse results for Menu page on desktop](/rainforest-cafe-lighthouse/menu-desktop-lighthouse-snippet.png)
+![Lighthouse results for Menu page on desktop](/assets/rainforest-cafe-lighthouse/menu-desktop-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/menu-desktop-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/menu-desktop-lighthouse.pdf)
 
 #### **Menu Page on Mobile**
-![Lighthouse results for Menu page on mobile](/rainforest-cafe-lighthouse/menu-mobile-lighthouse-snippet.png)
+![Lighthouse results for Menu page on mobile](/assets/rainforest-cafe-lighthouse/menu-mobile-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/menu-mobile-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/menu-mobile-lighthouse.pdf)
 
 #### **Find Us Page on Desktop**
-![Lighthouse results for Find Us page on desktop](/rainforest-cafe-lighthouse/find-us-desktop-lighthouse-snippet.png)
+![Lighthouse results for Find Us page on desktop](/assets/rainforest-cafe-lighthouse/find-us-desktop-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/find-us-desktop-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/find-us-desktop-lighthouse.pdf)
 
 #### **Find Us Page on Mobile**
-![Lighthouse results for Find Us page on mobile](/rainforest-cafe-lighthouse/find-us-mobile-lighthouse-snippet.png)
+![Lighthouse results for Find Us page on mobile](/assets/rainforest-cafe-lighthouse/find-us-mobile-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/find-us-mobile-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/find-us-mobile-lighthouse.pdf)
 
 #### **Book Now Page on Desktop**
-![Lighthouse results for Book Now page on desktop](/rainforest-cafe-lighthouse/book-now-desktop-lighthouse-snippet.png)
+![Lighthouse results for Book Now page on desktop](/assets/rainforest-cafe-lighthouse/book-now-desktop-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/book-now-desktop-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/book-now-desktop-lighthouse.pdf)
 
 #### **Book Now Page on Mobile**
-![Lighthouse results for Book Now page on mobile](/rainforest-cafe-lighthouse/book-now-mobile-lighthouse-snippet.png)
+![Lighthouse results for Book Now page on mobile](/assets/rainforest-cafe-lighthouse/book-now-mobile-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/book-now-mobile-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/book-now-mobile-lighthouse.pdf)
 
 #### **Form Accepted Page on Desktop**
-![Lighthouse results for Form Accepted page on desktop](/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse-snippet.png)
+![Lighthouse results for Form Accepted page on desktop](/assets/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/form-accepted-desktop-lighthouse.pdf)
 
 #### **Form Accepted Page on Mobile**
-![Lighthouse results for Form Accepted page on mobile](/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse-snippet.png)
+![Lighthouse results for Form Accepted page on mobile](/assets/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse-snippet.png)
 
-[Click here to view the full summary of results](/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse.pdf)
+[Click here to view the full summary of results](/assets/rainforest-cafe-lighthouse/form-accepted-mobile-lighthouse.pdf)
 
 ## **User Testing**
 

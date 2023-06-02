@@ -142,9 +142,9 @@ I also chose to separate the website into pages, so users wouldn't have to scrol
 
 When starting to design my website, I created detailed wireframes using Balsamiq. I considered how the website would appear on desktop, tablet and mobile devices, and prepared a set of wireframes which would show how the website would look as users scrolled through each page.
 To view the wireframes, please click on the links below:
-- [Wireframes for desktop](/rainforest-cafe-wireframes/rainforest-cafe-desktop-wireframes.png)
-- [Wireframes for tablet](/rainforest-cafe-wireframes/rainforest-cafe-mobile-wireframes.png)
-- [Wireframes for mobile](/rainforest-cafe-wireframes/rainforest-cafe-tablet-wireframes.png)
+- [Wireframes for desktop](/assets/rainforest-cafe-wireframes/rainforest-cafe-desktop-wireframes.png)
+- [Wireframes for tablet](/assets/rainforest-cafe-wireframes/rainforest-cafe-mobile-wireframes.png)
+- [Wireframes for mobile](/assets/rainforest-cafe-wireframes/rainforest-cafe-tablet-wireframes.png)
 
 [Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
 
@@ -158,7 +158,7 @@ Given the theme of the restaurant, I wanted to use natural colours. I used Color
 
 ##### [Palette 1](https://colorhunt.co/palette/f2e3db41644a263a29e86a33)
 
-![Palette 1](assets/images/color-hunt-palette-1-colours.png)
+![Palette 1](/assets/images/color-hunt-palette-1-colours.png)
 
 The primary colour used across the website is from this palette. The darker shade of green, #263A29, was applied to the navbar in the header and the social media links bar in the footer. This colour is also used for text that appears on a white background.
 
@@ -166,7 +166,7 @@ The lighter shade of green, #41644A, is used for menu navbar on the Menu page.
 
 ##### [Palette 2](https://colorhunt.co/palette/064635519259f0bb62f4eea9)
 
-![Palette 2](assets/images/color-hunt-palette-2-colours.png)
+![Palette 2](/assets/images/color-hunt-palette-2-colours.png)
 
 I selected softer colours from this palette, to be used as background colours for each menu course section on the Menu page. I alternated between #519259, a lighter shade of green, and #F0BB62, a pale orange colour.
 
@@ -234,40 +234,40 @@ The navbar consists of these 5 links:
 
 I chose to include only a small number of links that would have value for users and prevent them from spending too much time trying to locate the desired information.
 
-![Navbar with page name underlined](/rainforest-cafe-features/homepage-features/homepage-nav-active-link-underline.png)
+![Navbar with page name underlined](/assets/rainforest-cafe-features/homepage-features/homepage-nav-active-link-underline.png)
 
 ##### **Hero Image and Welcome Section**
 
 Beneath the navbar, users see the large hero image, which is followed by a short welcome section. This section consists of the restaurant's name and a brief description of its theme.
 
-![Hero image and Welcome section](/rainforest-cafe-features/homepage-features/homepage-hero-image-welcome-section.png)
+![Hero image and Welcome section](/assets/rainforest-cafe-features/homepage-features/homepage-hero-image-welcome-section.png)
 
 ##### **About Us**
 
 Scrolling down, users see a four-column grid with the headings 'Our Food', 'Our Environment', 'Our Partners' and 'Our Planet'. Underneath each heading, an image covers the width of the column, with a short description relating to each column heading.
 
-![About Us section](/rainforest-cafe-features/homepage-features/homepage-about-us-section.png)
-![Our Farm video](/rainforest-cafe-features/homepage-features/homepage-our-farm-video.png)
+![About Us section](/assets/rainforest-cafe-features/homepage-features/homepage-about-us-section.png)
+![Our Farm video](/assets/rainforest-cafe-features/homepage-features/homepage-our-farm-video.png)
 
 ##### **Section Links**
 
 Towards the bottom of the page, a grid of three columns holds an image each, all of which are evenly sized and spaced. An h2 is centered in each image, naming the page-link. The entire image, as well as the text, links to its named page. When the user hovers over the image, its opacity is reduced, indicating that is being interacted with.
 
-![Section links](/rainforest-cafe-features/homepage-features/homepage-page-links.png)
-![Section links with hover effect](/rainforest-cafe-features/homepage-features/homepage-page-links-hover.png)
+![Section links](/assets/rainforest-cafe-features/homepage-features/homepage-page-links.png)
+![Section links with hover effect](/assets/rainforest-cafe-features/homepage-features/homepage-page-links-hover.png)
 
 ##### **Footer**
 
 Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. When the user hovers over a social media icon, its size increases.
 
-![Footer bar](/rainforest-cafe-features/homepage-features/homepage-footer.png)
-![Footer bar with hover effect](/rainforest-cafe-features/homepage-features/homepage-footer-hover.png)
+![Footer bar](/assets/rainforest-cafe-features/homepage-features/homepage-footer.png)
+![Footer bar with hover effect](/assets/rainforest-cafe-features/homepage-features/homepage-footer-hover.png)
 
 #### **Menu Page**
 
 Sitting on top of the first container is a small navbar for the menu, so the user can easily navigate to a specific section if they desire. When each link is hovered over, an underline appears, so the user can see that they can click on the link and visit that specific section.
 
-![Menu page nav bar with hover effect](/rainforest-cafe-features/menu-page-features/menu-page-nav-hover.png)
+![Menu page nav bar with hover effect](/assets/rainforest-cafe-features/menu-page-features/menu-page-nav-hover.png)
 
 The main content of the menu page is made up of 4 containers, each consisting with a grid, made up of 8 cards. The first card in each container displays an h2, which indicates what type of content the user should expect to see in that section. The sections are well-defined, using alternating colours to indicate to the user when they are looking at a different section.
 
@@ -279,13 +279,13 @@ A back-to-top button can be seen on the right-hand-side of the screen as the use
 
 This button's core code was taken from [W3Schools](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp) and customised. The modified code is labelled clearly CSS file.
 
-![Menu page menu with back-to-top button](/rainforest-cafe-features/menu-page-features/menu-page-grid-colours-back-to-top-button.png)
+![Menu page menu with back-to-top button](/assets/rainforest-cafe-features/menu-page-features/menu-page-grid-colours-back-to-top-button.png)
 
 #### **Find Us Page**
 
 This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location of the restaurant on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. This information is labelled with easily-identifiable and brightly-coloured icons. The address of the restaurant is labelled with a red pin icon, the phone number with an orange telephone icon, and the email address with a green envelope icon. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
 
-![Find Us page](/rainforest-cafe-features/find-us-page-features/find-us-page.png)
+![Find Us page](/assets/rainforest-cafe-features/find-us-page-features/find-us-page.png)
 
 #### **Book Now Page**
 
@@ -293,24 +293,24 @@ The booking page features a white booking form, with a simple plant background t
 
 The form asks for relevant information from the user and consists of select options, a date input, a textarea and text inputs. 
 
-![Book Now page](/rainforest-cafe-features/book-now-page-features/book-now-form.png)
+![Book Now page](/assets/rainforest-cafe-features/book-now-page-features/book-now-form.png)
 
 The date input calendar has a 'min' attribute applied to it, which blocks out past dates so users are unable to enter an invalid request.
 
-![Book Now page booking form with dates blocked on the calendar](/rainforest-cafe-features/book-now-page-features/book-now-form-calendar.png)
+![Book Now page booking form with dates blocked on the calendar](/assets/rainforest-cafe-features/book-now-page-features/book-now-form-calendar.png)
 
 All input fields, except for the textarea, which is a space for additional information, are required and validated. The form is well-spaced and places the labels alongside their respective inputs. This reduces excessive length of the form and allows the user to review the information they input easily before submitting their form.
 
 The large 'BOOK NOW' button at the bottom of the form is centered and has inverted colours to capture the user's attention. When hovered over, the colour of the button changes to a lighter shade of green. When clicked on, the 'BOOK NOW' submit button takes the user to the Form Accepted page which thanks them for their submission and outlines the next steps.
 
-![Book Now page booking form with required attribute](/rainforest-cafe-features/book-now-page-features/book-now-form-required.png)
-![Book Now page booking form with email validation](/rainforest-cafe-features/book-now-page-features/book-now-form-email-validation.png)
+![Book Now page booking form with required attribute](/assets/rainforest-cafe-features/book-now-page-features/book-now-form-required.png)
+![Book Now page booking form with email validation](/assets/rainforest-cafe-features/book-now-page-features/book-now-form-email-validation.png)
 
 #### **Form Accepted Page**
 
 This page is concise and offers a more authentic booking experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
 
-![Form Accepted page](/rainforest-cafe-features/form-accepted-page.png)
+![Form Accepted page](/assets/rainforest-cafe-features/form-accepted-page.png)
 
 ### **Features to be implemented in the future**
 
