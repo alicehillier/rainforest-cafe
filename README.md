@@ -408,7 +408,7 @@ The project was deployed to GitHub Pages using the following steps:
 4. Inside the settings, on the left side of the page, there’s a list of tab menu. Find the “Pages” tab, and click on it.
 5. Under "Source", click on the dropdown item called "None", select "Master", and then click on the “Save” button.
 6. The page will automatically refresh.
-7. Now you should see a notification message that provides the now published site link: “Your site is ready to be published at https://alicehillier.github.io/rainforest-cafe/ ”.
+7. Now you should see a notification message that provides the now published site link: “Your site is ready to be published at [https://alicehillier.github.io/rainforest-cafe/](https://alicehillier.github.io/rainforest-cafe/)”.
 
 ### **Forking the GitHub Repository**
 
