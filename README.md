@@ -298,7 +298,7 @@ The large 'BOOK NOW' button at the bottom of the form is centered and has invert
 
 This page is concise and offers a more authentic booking experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
 
-[Form Accepted page](/rainforest-cafe-features/form-accepted-page.png)
+![Form Accepted page](/rainforest-cafe-features/form-accepted-page.png)
 
 ### **Features to be implemented in the future**
 
