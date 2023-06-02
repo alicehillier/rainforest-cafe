@@ -28,7 +28,7 @@
 
     i. [Main Languages](https://github.com/alicehillier/rainforest-cafe/#main-languages)
 
-    ii. [Frameworks, Libraries and Programmes](https://github.com/alicehillier/rainforest-cafe/#frameworks-,-libraries-and-programmes)
+    ii. [Frameworks, Libraries and Programmes](https://github.com/alicehillier/rainforest-cafe/#frameworks-libraries-and-programmes)
 
 5. [Issues and Bugs](https://github.com/alicehillier/rainforest-cafe/#issues-and-bugs)
 
