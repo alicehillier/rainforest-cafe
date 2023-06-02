@@ -403,6 +403,10 @@ Changes made on the local machine (cloned repository) can be pushed to the upstr
 
 - Font Awesome: All icons were sourced from this website.
 
+- [W3Schools](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp): I used the core code to create a back to top button on the Menu page.
+
+- [dissyulina's Github page](https://github.com/dissyulina/the-little-pantry): I used the README from dissyulina's project as a reference for this README.
+
 ## **Acknowledgements**
 
 - My mentor, Oluwaseun Owonikoko, for her patience, support and consistent constructive feedback.
