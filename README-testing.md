@@ -62,11 +62,15 @@
 
 ![Homepage Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-homepage-responsive.gif)
 
+---
+
 ### **Menu Page Responsive Design Testing**
 
 ![Menu Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page.gif)
 
 ![Menu Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-menu-page-responsive.gif)
+
+---
 
 ### **Find Us Page Responsive Design Testing**
 
@@ -74,15 +78,21 @@
 
 ![Find Us Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-find-us-page-responsive.gif)
 
+---
+
 ### **Book Now Page Responsive Design Testing**
 
 ![Book Now Page Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page.gif)
 
 ![Book Now Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-book-now-page-responsive.gif)
 
+---
+
 ### **Form Accepted Page Responsive Design Testing**
 
 ![Form Accepted Page Responsive Design Test](/rainforest-cafe-testing-videos/rainforest-cafe-form-accepted-page-responsive.gif)
+
+---
 
 ## **Validation and Lighthouse**
 
