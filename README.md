@@ -14,7 +14,7 @@
     
     iii. [Structure Plane](https://github.com/alicehillier/rainforest-cafe/#structure-plane)
 
-    iv. [Skeleton Plane/Wireframes](https://github.com/alicehillier/rainforest-cafe/#skeleton-plane-/-wireframes)
+    iv. [Skeleton Plane/Wireframes](https://github.com/alicehillier/rainforest-cafe/#skeleton-plane)
 
     v. [Surface Plane](https://github.com/alicehillier/rainforest-cafe/#surface-plane)
 
