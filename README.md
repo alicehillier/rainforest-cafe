@@ -200,9 +200,11 @@ The background image, which extends across the full height and width of the page
 
 ## **Features**
 
-### **Homepage**
+### *Existing Features**
 
-#### **Navbar**
+#### **Homepage**
+
+##### **Navbar**
 
 The navbar is fixed to the top of the screen and extends across the entire width of the page. On smaller devices, the navbar doubles in length in order to allow ample space between links. This limits the opportunity for accidentally pressing links. The name of the page currently being viewed is underlined, so users won't become lost.
 
@@ -220,23 +222,23 @@ The navbar consists of these 5 links:
 
 I chose to include only a small number of links that would have value for users and prevent them from spending too much time trying to locate the desired information.
 
-#### **Hero Image and Welcome Section**
+##### **Hero Image and Welcome Section**
 
 Beneath the navbar, users see the large hero image, which has a zoom-out animation as the page loads. The hero image is followed by a short welcome section, which consists of the restaurant's name and a brief description of it's theme.
 
-#### **About Us**
+##### **About Us**
 
 Scrolling down, users see a four-column grid with the headings 'Our Food', 'Our Environment', 'Our Partners' and 'Our Planet'. Underneath each heading, an image covers the width of the column, with a short description relating to each heading underneath.
 
-#### **Section Links**
+##### **Section Links**
 
 Towards the bottom of the page, a grid of three columns holds an image, evenly sized and spaced. An h2 is centered in each image. The entire image, as well as the text, links to its named page. When the user hovers over the image, its opacity is reduced, indicating that is being interacted with.
 
-#### **Footer**
+##### **Footer**
 
 Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. 
 
-### **Menu**
+#### **Menu**
 
 The main content of the menu page is made up of 4 containers, with 8 cards in each. The first card in each container displays an h2, which indicates what type of content the user should expect to see in that section. The sections are well-defined, using alternating colours to indicate to the user when they are looking at a different section.
 
@@ -244,11 +246,11 @@ Sitting on top of the first container is a small navbar for the menu, so the use
 
 In each food/drink item card of each container, the user can see an image of the food/drink, its name, logos denoting if it is suitable for vegan, vegetarian or gluten-free diets (each with a title stating the logo's meaning), a short description of the meal, and its price. All content is centered in the card and has ample spacing for easy reading.
 
-### **Find Us**
+#### **Find Us**
 
 This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location of the restaurant on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. This information is labelled with easily-identifiable and brightly-coloured icons. The address of the restaurant is labelled with a red pin icon, the phone number with an orange telephone icon, and the email address with a green envelope icon. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
 
-### **Book Now**
+#### **Book Now**
 
 The booking page features a white booking form, with a simple plant background to make it more visually appealing, but not overwhelming. 
 
@@ -256,7 +258,7 @@ The booking form asks for relevant information from the user and consists of sel
 
 The large 'BOOK NOW' button at the bottom of the form is centered and has inverted colours to capture the user's attention. When clicked, the 'BOOK NOW' submit button takes the user to a page which thanks them and outlines the next steps.
 
-### **Thank You Page**
+#### **Thank You Page**
 
 This page is concise and offers a more authentic booking experience. It exists as a means to reassure the user that their form has been submitted and received. The user is informed of the next steps, which eliminates any concerns of their booking being lost or not received.
 
@@ -276,14 +278,14 @@ The following features would be an excellent means to create a fuller experience
 
 6. Add a subscription form to promote offers and engage with users.
 
-## **Technologies Used**
+## **Technology Used**
 
 ### **Main Languages**
 
 - HTML
 - CSS
 
-### **Frameworks/Libraries/Programmes Used**
+### **Frameworks,Libraries and Programmes**
 
 - W3Schools: Used to validate HTML and CSS documents, and to look for ideas and guidance about how to implement my designs. I also used their code to create a 'Back to Top' button on the Menu page.
 
