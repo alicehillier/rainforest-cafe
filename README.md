@@ -337,7 +337,7 @@ The following features would be an excellent means to create a fuller experience
 - HTML
 - CSS
 
-### **Frameworks,Libraries and Programmes**
+### **Frameworks, Libraries and Programmes**
 
 - W3Schools: Used to validate HTML and CSS documents, and to look for ideas and guidance about how to implement my designs. I also used their code to create a 'Back to Top' button on the Menu page.
 
