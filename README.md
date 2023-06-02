@@ -46,6 +46,8 @@
 Welcome to Rainforest Cafe’s website! Located in the heart of London’s Soho district, we’ve brought a little piece of the rainforest to one of the world’s busiest cities. Relax in our plant-filled cafe, or soak up the sun in our tropical garden. Feast on our naturally delicious treats and feel good for doing good, by dining with a sustainable and fairtrade business.
 Rainforest Cafe is a fictional business, created by Alice Hillier for the first project in Code Institute’s Diploma in Software Development programme.
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ## **UX Design**
 
 ### **Strategy Plane**
@@ -198,6 +200,8 @@ The map displayed on this page was found on Google Maps. I took a snippet of the
 
 The background image, which extends across the full height and width of the page, shows plenty of greenery in an indoor setting. This, again, conveys the natural theme and aesthetic of the restaurant.
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ## **Features**
 
 ### **Existing Features**
@@ -316,6 +320,8 @@ The following features would be an excellent means to create a fuller experience
 
 6. Add a subscription form to promote offers and engage with users.
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ## **Technology Used**
 
 ### **Main Languages**
@@ -347,6 +353,8 @@ The following features would be an excellent means to create a fuller experience
 
 - Color Hunt: I used Color Hunt to identify appropriate colours for the website's theme.
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ## **Issues and Bugs**
 
 1.  On a physical iOS mobile and tablet, the menu navigation bar on the menu page did not have centered text, despite appearing centered on inspect. 
@@ -372,9 +380,11 @@ The following features would be an excellent means to create a fuller experience
 
     Solution: I asked my peers for feedback on Slack, and one of them recommended I use the "loading=lazy" attribute to improve the experience. I applied this attribute to all images in the About Us section on the homepage and all images on the Menu page, which seems to have improved the loading times.
 
-### Unresolved Issues and Bugs
+7.  Issue: On smaller screens, the homepage had white space on all sides when dragged. This did not appear to happen on the other pages.
 
-1. On smaller screens, the homepage has white space on all sides when dragged. This does not appear to happen on the other pages, so this may be due to the scale animation used for the hero image.
+    Solution: I removed the hero-image animation, which fixed the issue.
+
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
 
 ## **Deployment**
 
@@ -432,6 +442,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Changes made on the local machine (cloned repository) can be pushed to the upstream repository directly if you have a write access for the repository. Otherwise, the changes made in the cloned repository are first pushed to the forked repository, and then a pull request is created.
 
 [Click Here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) for a more comprehensive guide on how to complete the above process.
+
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
 
 ## **Testing**
 
