@@ -134,9 +134,9 @@ I also chose to separate the website into pages, so users wouldn't have to scrol
 
 When starting to design my website, I created detailed wireframes using Balsamiq. I considered how the website would appear on desktop, tablet and mobile devices, and prepared a set of wireframes which would show how the website would look as users scrolled through each page.
 To view the wireframes, please click on the links below:
-- [Wireframes for desktop](/rainforest-cafe-wireframes/rainforest-cafe-desktop-wireframes.pdf)
-- [Wireframes for tablet](/rainforest-cafe-wireframes/rainforest-cafe-mobile-wireframes.pdf)
-- [Wireframes for mobile](/rainforest-cafe-wireframes/rainforest-cafe-tablet-wireframes.pdf)
+- [Wireframes for desktop](/rainforest-cafe-wireframes/rainforest-cafe-desktop-wireframes.png)
+- [Wireframes for tablet](/rainforest-cafe-wireframes/rainforest-cafe-mobile-wireframes.png)
+- [Wireframes for mobile](/rainforest-cafe-wireframes/rainforest-cafe-tablet-wireframes.png)
 
 ### **Surface Plane**
 
