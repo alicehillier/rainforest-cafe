@@ -246,12 +246,12 @@ Towards the bottom of the page, a grid of three columns holds an image each, all
 
 ##### **Footer**
 
-Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. 
+Sitting at the bottom of the page, a bar of green, matching the navbar, stretches across the entire width of the page. Social media links, identifiable by their logos, are spaced evenly in the center. When the user hovers over a social media icon, its size increases.
 
 ![Footer bar](/rainforest-cafe-features/homepage-features/homepage-footer.png)
 ![Footer bar with hover effect](/rainforest-cafe-features/homepage-features/homepage-footer-hover.png)
 
-#### **Menu**
+#### **Menu Page**
 
 Sitting on top of the first container is a small navbar for the menu, so the user can easily navigate to a specific section if they desire. When each link is hovered over, an underline appears, so the user can see that they can click on the link and visit that specific section.
 
@@ -269,13 +269,13 @@ This button's core code was taken from [W3Schools](https://www.w3schools.com/how
 
 ![Menu page menu with back-to-top button](/rainforest-cafe-features/menu-page-features/menu-page-grid-colours-back-to-top-button.png)
 
-#### **Find Us**
+#### **Find Us Page**
 
 This page is split into two columns. The first column features a map, which, when clicked on, takes the user to the precise location of the restaurant on the interactive Google Maps. The top part of the second column lists the address of the restaurant, its phone number and email address. This information is labelled with easily-identifiable and brightly-coloured icons. The address of the restaurant is labelled with a red pin icon, the phone number with an orange telephone icon, and the email address with a green envelope icon. The bottom part of the second column displays the opening times of the restaurant. The columns are aligned and evenly spaced.
 
 ![Find Us page](/rainforest-cafe-features/find-us-page-features/find-us-page.png)
 
-#### **Book Now**
+#### **Book Now Page**
 
 The booking page features a white booking form, with a simple plant background to make it more visually appealing, but not overwhelming. 
 
