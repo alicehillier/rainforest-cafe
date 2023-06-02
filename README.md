@@ -105,6 +105,8 @@ As part of my research, I also conducted interviews to identify what a user want
 -	I want to know if there are new additions to the menu
 -	I want to know if I can buy any of the restaurant’s products to cook at home
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ### **Scope Plane**
 
 Based on the research conducted in the Strategy Plane, I decided to include the following features in Rainforest Cafe’s website:
@@ -124,6 +126,8 @@ I ensured that I met the following functionality requirements:
 -	Use less text and more images to convey information to users
 -	Users can use the website comfortably on different devices
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ### **Structure Plane**
 
 The contents of the website were carefully considered and selected for their relevance and usefulness to users. 
@@ -132,6 +136,8 @@ I decided to include only a small number of links in the navbar to avoid confusi
 
 I also chose to separate the website into pages, so users wouldn't have to scroll endlessly to find the desired information. As the website features the restaurant's comprehensive menu, I felt that this feature in particular would cause frustration if it were to be implemented in a single-page website.
 
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
+
 ### **Skeleton Plane**
 
 When starting to design my website, I created detailed wireframes using Balsamiq. I considered how the website would appear on desktop, tablet and mobile devices, and prepared a set of wireframes which would show how the website would look as users scrolled through each page.
@@ -139,6 +145,8 @@ To view the wireframes, please click on the links below:
 - [Wireframes for desktop](/rainforest-cafe-wireframes/rainforest-cafe-desktop-wireframes.png)
 - [Wireframes for tablet](/rainforest-cafe-wireframes/rainforest-cafe-mobile-wireframes.png)
 - [Wireframes for mobile](/rainforest-cafe-wireframes/rainforest-cafe-tablet-wireframes.png)
+
+[Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
 
 ### **Surface Plane**
 
