@@ -211,7 +211,7 @@ The map displayed on this page was found on Google Maps. I took a snippet of the
 
 ##### **Book Now**
 
-The background image, which extends across the full height and width of the page, shows plenty of greenery in an indoor setting. This, again, conveys the natural theme and aesthetic of the restaurant.
+The background image, which extends across the full height and width of the page, shows some plants in an indoor setting. This, again, conveys the natural theme and aesthetic of the restaurant.
 
 [Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
 
@@ -461,9 +461,9 @@ Changes made on the local machine (cloned repository) can be pushed to the upstr
 
 ## **Credits**
 
-- Pexels and Unsplashed: All images were sourced from these two websites.
+- [Pexels](https://www.pexels.com/) and [Unsplashed](https://unsplash.com/): All images and the video on the homepage were sourced from these two websites.
 
-- Font Awesome: All icons were sourced from this website.
+- [Font Awesome](https://fontawesome.com/): All icons were sourced from this website.
 
 - [W3Schools](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp): I used the core code to create a back to top button on the Menu page.
 
