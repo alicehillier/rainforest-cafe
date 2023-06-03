@@ -60,7 +60,7 @@ Rainforest Cafe is a fictional business, created by Alice Hillier for the first 
 In order to gauge what makes a successful restaurant website, I undertook online research to find common themes, features and layouts. 
 Some of the restaurant websites I researched were:
 
-#### **Las Iguanas** 
+#### **[Las Iguanas](https://www.iguanas.co.uk/)** 
 
 -	Offers Latin American cuisine
 -	Horizontal navbar, with repeated links throughout the page
@@ -70,7 +70,7 @@ Some of the restaurant websites I researched were:
 -	Features include – ‘book now’ button on top right corner, menu, about, find us, deliveries, parties, shop
 -	Subscription prompt at the bottom of the page
 
-#### **Nando’s**
+#### **[Nando’s](https://www.nandos.ie/)**
 
 -	Offers barbecued chicken in a variety of sauces (some vegetarian options available)
 -	Horizontal navbar, with repeat links throughout the page
@@ -79,7 +79,7 @@ Some of the restaurant websites I researched were:
 -	Features include – ‘order online’ button on top right corner, menu, loyalty scheme, restaurants, cook, about us, help, careers
 -	Subscription prompt underneath header
 
-#### **Turtle Bay**
+#### **[Turtle Bay](https://turtlebay.co.uk/)**
 
 -	Offers Caribbean cuisine
 -	Horizontal navbar, with repeated links throughout page
