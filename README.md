@@ -382,10 +382,9 @@ The following features would be an excellent means to create a fuller experience
 
     Solution: I realised that I had placed the anchor tag within the div, around another div. So, the anchor tag was applied to the inner div, which had no properties set. I moved the anchor tag outside of the outer div, which then allowed the user to click the working link. 
 
-4.  Issue: Realising I'd set all images as background, which was incorrect, when re-setting them with the img tag, the images appeared stretched or not filling their      
-    containers as expected. 
+4.  Issue: Realising I'd set all images as background, which was incorrect, when re-setting them with the img tag, the images appeared stretched or not filling their containers as expected. 
 
-    Solution: I tested a few properties in CSS, including object-fit. I ruled out which ones didn't work, such as 'contain' and 'fill', and found that 'object-fit: cover;' gave me the desired result.
+    Solution: I tested a few properties in CSS, including object-fit. I ruled out which ones didn't work, such as 'contain' and 'fill', and found that 'object-fit: cover;gave me the desired result.
 
 5.  Issue: Loading times were very slow, particularly on the menu page.
 
