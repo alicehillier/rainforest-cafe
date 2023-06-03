@@ -455,11 +455,10 @@ footer {
     text-align: center;
 }
 
-.map-box {
+.find-us-map {
     width: 100%;
     height: 100%;
-    background: url('../images/find-us-map.png') no-repeat center center;
-    background-size: cover;
+    object-fit: cover;
 }
 
 .address-details {
