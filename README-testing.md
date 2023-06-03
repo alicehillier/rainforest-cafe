@@ -96,7 +96,7 @@
 
 ## **Validation and Lighthouse**
 
-### **HTML Validator**
+### **W3C HTML Validation**
 
 #### **Homepage HTML Validation Results**
 
@@ -138,7 +138,9 @@
 
 ---
 
-### **CSS Validator**
+### **Jigsaw CSS Validation**
+
+#### **CSS Validation Results**
 
 ![CSS validation results](/assets/rainforest-cafe-html-validator/css-validation.png)
 
