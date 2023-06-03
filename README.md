@@ -370,30 +370,28 @@ The following features would be an excellent means to create a fuller experience
 
 ## **Issues and Bugs**
 
-1.  On a physical iOS mobile and tablet, the menu navigation bar on the menu page did not have centered text, despite appearing centered on inspect. 
-
-2.  Issue: On a physical iOS mobile and tablet, the user could swipe left and right to see white space. 
+1.  Issue: On a physical iOS mobile and tablet, the user could swipe left and right to see white space. 
 
     Solution: I removed the animation for the hero image on the homepage and the whitespace was no longer visible.
 
-3.  Issue: On small screen sizes (approximately 300-400px), not all the social media links were showing.
+2.  Issue: On small screen sizes (approximately 300-400px), not all the social media links were showing.
 
     Solution: I doubled the height of the bar and adjusted the width of the icons for screens up to 600px, which meant all icons were evenly-sized, evenly-spaced and visible.
 
-4.  Issue: On the 'Find Us' page, the map could not be clicked on, so the user couldn't see the interactive map or a broader view of the location.
+3.  Issue: On the 'Find Us' page, the map could not be clicked on, so the user couldn't see the interactive map or a broader view of the location.
 
     Solution: I realised that I had placed the anchor tag within the div, around another div. So, the anchor tag was applied to the inner div, which had no properties set. I moved the anchor tag outside of the outer div, which then allowed the user to click the working link. 
 
-5.  Issue: Realising I'd set all images as background, which was incorrect, when re-setting them with the img tag, the images appeared stretched or not filling their      
+4.  Issue: Realising I'd set all images as background, which was incorrect, when re-setting them with the img tag, the images appeared stretched or not filling their      
     containers as expected. 
 
     Solution: I tested a few properties in CSS, including object-fit. I ruled out which ones didn't work, such as 'contain' and 'fill', and found that 'object-fit: cover;' gave me the desired result.
 
-6.  Issue: Loading times were very slow, particularly on the menu page.
+5.  Issue: Loading times were very slow, particularly on the menu page.
 
     Solution: I asked my peers for feedback on Slack, and one of them recommended I use the "loading=lazy" attribute to improve the experience. I applied this attribute to all images in the About Us section on the homepage and all images on the Menu page, which seems to have improved the loading times.
 
-7.  Issue: On smaller screens, the homepage had white space on all sides when dragged. This did not appear to happen on the other pages.
+6.  Issue: On smaller screens, the homepage had white space on all sides when dragged. This did not appear to happen on the other pages.
 
     Solution: I removed the hero-image animation, which fixed the issue.
 
