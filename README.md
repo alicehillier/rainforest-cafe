@@ -43,7 +43,12 @@
 
 ## **Introduction**
 
-Welcome to Rainforest Cafe’s website! Located in the heart of London’s Soho district, we’ve brought a little piece of the rainforest to one of the world’s busiest cities. Relax in our plant-filled cafe, or soak up the sun in our tropical garden. Feast on our naturally delicious treats and feel good for doing good, by dining with a sustainable and fairtrade business.
+Welcome to Rainforest Cafe’s website! Located in the heart of London’s Soho district, we’ve brought a little piece of the rainforest to one of the world’s busiest cities. Escape the skyscrapers and relax in our plant-filled cafe, or soak up the sun in our tropical garden. Feast on our naturally delicious treats and feel good for doing good, by dining with a sustainable and fairtrade business.
+
+Rainforest Cafe is a restaurant for diners looking for fresh, healthy and natural food. With plenty of vegetarian, vegan and gluten-free options, finding a place that caters to everyone just got easier!
+
+Rainforest Cafe's website has been created to serve London's locals and visitors who are looking for fresh, healthy and natural food. It gives diners an idea of what the restaurant is about, including its nature theme, its values and an understanding of where its food comes from. The website also offers full access to its menu, complete with icons for those with strict dietary requirements, a description of the menu item and its price. This helps diners to make an informed choice before visiting Rainforest Cafe. Diners are also able to find contact details and opening hours for the restaurant, and can interact with a map showing the precise location of the restaurant. This leaves little room for error when diners want to get directions to the restaurant, no matter where they are. Finally, a booking option is available, giving diners the opportunity to eliminate the chance of having to wait for a table.
+
 Rainforest Cafe is a fictional business, created by Alice Hillier for the first project in Code Institute’s Diploma in Software Development programme.
 
 [Back to top](https://github.com/alicehillier/rainforest-cafe/#rainforest-cafe)
